@@ -29,16 +29,15 @@ ipcMain.handle('myAPI:hello-world', (event, strdata) => {
   return strdata + ' world!<br>' + JSON.stringify(event)
 })
 
-ipcMain.handle('maps:get-data', async () => {
+ipcMain.handle('maps:get-data', async (event, state) => {
   console.log("Running salesData.loadData()")
-  var mapData = await salesData.loadData()
+  var mapData = await salesData.loadData(state)
   
   if (mapData === null) {
     return []
   }
   
   return mapData
-  //return "Hello"
 })
 
 app.whenReady().then(() => {

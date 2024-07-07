@@ -19,8 +19,27 @@ document.getElementById('reset-to-system').addEventListener('click', async () =>
 
 document.getElementById('load-salesData').addEventListener('click', async () => {
 
+  // delete the map if it exists to stop "Map container is already initialized"
+  
+  // track where the map is to create a new one later
+  var map = document.getElementById('map')
+  if (map != null) {
+    map.remove()
+  }
+
+  // create a new map using: <div id="map" style="flex: 1; height: 96vh;"></div> in index.html, and add it inside the first div
+  var newMap = document.createElement('div')
+  newMap.id = 'map'
+  newMap.style.flex = '1'
+  newMap.style.height = '96vh'
+  document.getElementById('split').appendChild(newMap)
+
+
+  // find the state selected
+  var state = document.getElementById('state').value;
+
   // Your code here
-  var data = await window.maps.getData()
+  var data = await window.maps.getData(state)
   //console.log(data)
   /*
     Example of data in CSV file:

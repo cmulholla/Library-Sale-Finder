@@ -6,7 +6,7 @@ contextBridge.exposeInMainWorld('darkMode', {
 })
 
 contextBridge.exposeInMainWorld('maps', {
-  getData: () => ipcRenderer.invoke('maps:get-data'),
+  getData: (state) => ipcRenderer.invoke('maps:get-data', state),
 })
 
 contextBridge.exposeInMainWorld('helloWorld', {
