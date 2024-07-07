@@ -1,7 +1,6 @@
 const { read } = require('node:fs');
 const path = require('node:path');
 const fs = require('node:fs').promises;
-const fetch = require('node-fetch');
 
 // Load the data from the CSV file stored in the CSVdata folder
 // If the data is not in the CSVdata folder, grab it from stateSalesCSV folder
@@ -10,6 +9,9 @@ const fetch = require('node-fetch');
 
 async function getLatLon(city, state, country) {
     try {
+        // dynamically import fetch
+        const fetch = await import('node-fetch');
+
         const url = `https://nominatim.openstreetmap.org/search?city=${city}&state=${state}&country=${country}&format=json&namedetails=1&accept-language=en&zoom=3`;
         const headers = {'User-Agent': 'abcd'};
         const response = await fetch(url, { headers });
@@ -55,7 +57,11 @@ async function makeLonLatCSV(data, findState) {
             var lon = latLon[0].lon;
             var library = row.Library;
             var saleDetails = row.SaleDetails;
-            csv += `${lat},${lon},${library},${saleDetails}\n`;
+            // Add some random jitter to the lat and lon to avoid overlapping points
+            lat = parseFloat(lat) + (Math.random() - 0.5) * 0.01;
+            lon = parseFloat(lon) + (Math.random() - 0.5) * 0.01;
+
+            csv += `${lat},${lon},"${library}","${saleDetails}"\n`;
         }
         return csv;
     } catch (error) {
@@ -69,6 +75,7 @@ async function readStateSalesCSV(state) {
     const stateSalesCSVExists = await fs.access(stateSalesCSVPath).then(() => true).catch(() => false);
 
     if (!stateSalesCSVExists) {
+        /////////// call grabSalesData.js here to create the new file
         throw new Error(`State sales data for ${state} not found`);
     }
 

@@ -17,10 +17,30 @@ document.getElementById('reset-to-system').addEventListener('click', async () =>
 })
 */
 
-document.getElementById('load-salesData').addEventListener('click', async () => {
+// if a state is selected, enable the "Load Sales Data" and the "upload HTML" button
+document.getElementById('state').addEventListener('change', () => {
+  var state = document.getElementById('state').value;
+  if (state != "") {
+    document.getElementById('load-salesData').disabled = false;
+    document.getElementById('upload-html').disabled = false;
+  }
+  else {
+    document.getElementById('load-salesData').disabled = true;
+    document.getElementById('upload-html').disabled = true;
+  }
+})
+
+async function loadSalesData() {
+  // find the state selected
+  var state = document.getElementById('state').value;
+
+  // if there's no state selected, return
+  if (state == "") {
+    return;
+  }
 
   // delete the map if it exists to stop "Map container is already initialized"
-  
+
   // track where the map is to create a new one later
   var map = document.getElementById('map')
   if (map != null) {
@@ -33,10 +53,6 @@ document.getElementById('load-salesData').addEventListener('click', async () => 
   newMap.style.flex = '1'
   newMap.style.height = '96vh'
   document.getElementById('split').appendChild(newMap)
-
-
-  // find the state selected
-  var state = document.getElementById('state').value;
 
   // Your code here
   var data = await window.maps.getData(state)
@@ -108,6 +124,23 @@ document.getElementById('load-salesData').addEventListener('click', async () => 
   var marker = L.marker([51.5, -0.09]).addTo(map);
 
   marker.bindPopup("<b>Hello world!</b><br>I am a popup.");
+}
 
+document.getElementById('load-salesData').addEventListener('click', loadSalesData);
+
+document.getElementById('upload-html').addEventListener('click', async () => {
+  var state = document.getElementById('state').value;
+
+  var filePath = await window.maps.getFilePath()
+
+  if (filePath === false) {
+    return
+  }
+
+  var success = await window.maps.uploadHTML(filePath, state)
+
+  if (success) {
+    loadSalesData()
+  }
 
 })

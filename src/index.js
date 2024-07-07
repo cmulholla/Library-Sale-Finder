@@ -1,6 +1,8 @@
-const { app, BrowserWindow, ipcMain, nativeTheme } = require('electron')
+const { app, BrowserWindow, ipcMain, nativeTheme, dialog } = require('electron')
 const path = require('node:path')
 let salesData = require('./salesData');
+let grabSalesData = require('./grabSalesData');
+const fs = require('node:fs').promises;
 
 function createWindow () {
   const win = new BrowserWindow({
@@ -38,6 +40,42 @@ ipcMain.handle('maps:get-data', async (event, state) => {
   }
   
   return mapData
+})
+
+ipcMain.handle('maps:upload-html', async (event, fpath, state) => {
+  // Read the HTML file from the path
+  const html = await fs.readFile(fpath, 'utf8');
+
+  try {
+    if (html === null || html === '') {
+      throw new Error('No HTML data');
+    }
+    await grabSalesData.saveHTMLtoCSV(html, state);
+  }
+  catch (error) {
+    console.error('Error saving HTML to CSV:', error);
+    return false;
+  }
+
+  // delete the LonLat data if it exists for the state
+  var latLonPath = path.join(__dirname, '..', 'CSVdata', `salesDataLonLat${state}.csv`);
+  var latLonExists = await fs.access(latLonPath).then(() => true).catch(() => false);
+  if (latLonExists) {
+    await fs.unlink(latLonPath);
+  }
+
+  return true;
+})
+
+ipcMain.handle('maps:get-file-path', async (event) => {
+  const { canceled, filePaths } = await dialog.showOpenDialog({
+    properties: ['openFile']
+  });
+  if (canceled) {
+    return false; // User canceled the dialog
+  } else {
+    return filePaths[0];
+  }
 })
 
 app.whenReady().then(() => {

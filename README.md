@@ -9,14 +9,14 @@ If you want an exe of this project, just message me through 20cmulholland@gmail.
 ## Features
 
 - **Electron Application**: Built with Electron, providing a native desktop application experience across Windows, macOS, and Linux.
-- **Data Scraping and Parsing**: Utilizes Python and BeautifulSoup4 to scrape and parse book sale data from the web.
-- **Data Storage**: Stores parsed data in a CSV file, reducing the need for repeated scraping.
+- **Data Scraping and Parsing**: The user uploads an HTML document which is parsed by JSDOM
+- **Data Storage**: Stores parsed data in a CSV file, reducing the need for repeated uploading.
 - **Interactive Map Visualization**: Displays book sales data on an interactive map using Leaflet.js, offering a user-friendly interface for exploring events.
 - **Electron Forge Integration**: Uses Electron Forge for building, running, and packaging the application, streamlining development and deployment processes.
 
 ## How It Works
 
-1. **Scraping and Parsing Data**: The application scrapes book sale data from `https://www.booksalefinder.com/` using a Python script and BeautifulSoup4, extracting relevant details such as dates, locations, and descriptions.
+1. **Scraping and Parsing Data**: This application uses JSDOM to parse HTML data from `https://www.booksalefinder.com/` and extract information about book sale events in different states across the U.S.
 
 2. **Storing and Updating Data**: Scraped data is stored in a CSV file for easy access and manipulation. Users can update this data by triggering the Python script through the Electron interface.
 
@@ -27,7 +27,7 @@ If you want an exe of this project, just message me through 20cmulholland@gmail.
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript, Leaflet.js
-- **Backend**: NodeJS, BeautifulSoup4
+- **Backend**: NodeJS, JSDOM
 - **Desktop Application**: Electron, Electron Forge
 - **Data Storage**: CSV
 
@@ -39,14 +39,8 @@ If you want an exe of this project, just message me through 20cmulholland@gmail.
 2. **Navigate to the Project Directory**:
   - cd booksales-data-map
 3. **Install Dependencies**:
-  - For Python (ensure you have Python installed):
-  ```
-pip install beautifulsoup4 requests
-  ```
   - For Node.js and Electron:
-  ```
-npm install
-  ```
+  ```npm install```
 4. **Run the Application with Electron Forge**:
 ```npm start```
   
