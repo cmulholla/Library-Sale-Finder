@@ -53,7 +53,7 @@ function findTablesAfterBrowse(html) {
     if (tables.length === 0) {
         console.error('No <table> elements found after the element with name="browse".');
     } else {
-        console.log(`Found ${tables.length} <table> elements after the element with name="browse".`);
+        //console.log(`Found ${tables.length} <table> elements after the element with name="browse".`);
     }
 
     return tables;
@@ -74,7 +74,7 @@ function parseSalesData(html) {
             if (cells.length === 2) {
                 // get the city name, library name, and everything before the <br> tag in the second cell
                 const city = cells[0].querySelector('b').textContent;
-                console.log("City:", city);
+                //console.log("City:", city);
                 let strcell = cells[0].innerHTML;
                 // remove all links in the cell
                 strcell = strcell.replace(/<a.*?>/g, '');
@@ -102,10 +102,10 @@ function parseSalesData(html) {
                     library = 'No Name Found';
                 }
 
-                console.log("Library:", library);
+                //console.log("Library:", library);
 
                 let saleDetails = cells[1].innerHTML;
-                console.log("saleDetails:", saleDetails);
+                //console.log("saleDetails:", saleDetails);
 
                 data.push([city, library, saleDetails]);
             }

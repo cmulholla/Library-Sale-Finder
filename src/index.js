@@ -3,6 +3,8 @@ const path = require('node:path')
 let salesData = require('./salesData');
 let grabSalesData = require('./grabSalesData');
 const fs = require('node:fs').promises;
+const WebSocket = require('ws');
+const progressEmitter = require('./eventEmitter');
 
 function createWindow () {
   const win = new BrowserWindow({
@@ -10,7 +12,7 @@ function createWindow () {
       preload: path.join(__dirname, 'preload.js')
     }
   })
-  win.webContents.openDevTools() // Automatically open dev tools
+  //win.webContents.openDevTools() // Automatically open dev tools
   win.loadFile(path.join(__dirname, 'index.html'))
 }
 
@@ -77,6 +79,14 @@ ipcMain.handle('maps:get-file-path', async (event) => {
     return filePaths[0];
   }
 })
+
+const wss = new WebSocket.Server({ port: 8080 });
+
+wss.on('connection', function connection(ws) {
+    progressEmitter.on('progress', progress => {
+        ws.send(JSON.stringify({ type: 'progress', value: progress }));
+    });
+});
 
 app.whenReady().then(() => {
   createWindow()

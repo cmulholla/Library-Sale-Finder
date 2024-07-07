@@ -1,6 +1,7 @@
 const { read } = require('node:fs');
 const path = require('node:path');
 const fs = require('node:fs').promises;
+const progressEmitter = require('./eventEmitter');
 
 // Load the data from the CSV file stored in the CSVdata folder
 // If the data is not in the CSVdata folder, grab it from stateSalesCSV folder
@@ -10,7 +11,7 @@ const fs = require('node:fs').promises;
 async function getLatLon(city, state, country) {
     try {
         // dynamically import fetch
-        const fetch = await import('node-fetch');
+        const { default: fetch } = await import('node-fetch');
 
         const url = `https://nominatim.openstreetmap.org/search?city=${city}&state=${state}&country=${country}&format=json&namedetails=1&accept-language=en&zoom=3`;
         const headers = {'User-Agent': 'abcd'};
@@ -36,6 +37,7 @@ async function makeLonLatCSV(data, findState) {
             var state = row.State;
             if (state != findState) {
                 console.log('State does not match:', state, findState);
+                progressEmitter.emit('progress', `State does not match: ${state}, ${findState}`);
                 continue;
             }
             var country = row.Country;
@@ -45,12 +47,15 @@ async function makeLonLatCSV(data, findState) {
                 latLon = JSON.parse(JSON.stringify(latLon));
                 if (latLon.length === 0) {
                     console.log('No lat and lon found for', city, state, country);
+                    progressEmitter.emit('progress', `No lat and lon found for ${city}, ${state}, ${country}`);
                     continue;
                 }
                 console.log(`Lat and Lon found for ${i} of ${data.length}`)
+                progressEmitter.emit('progress', `${i} of ${data.length}`);
             }
             catch (error) {
                 console.error('Error getting lat and lon:', error);
+                progressEmitter.emit('progress', error);
                 continue;
             }
             var lat = latLon[0].lat;
@@ -58,14 +63,16 @@ async function makeLonLatCSV(data, findState) {
             var library = row.Library;
             var saleDetails = row.SaleDetails;
             // Add some random jitter to the lat and lon to avoid overlapping points
-            lat = parseFloat(lat) + (Math.random() - 0.5) * 0.01;
-            lon = parseFloat(lon) + (Math.random() - 0.5) * 0.01;
+            lat = parseFloat(lat) + (Math.random() - 0.5) * 0.1;
+            lon = parseFloat(lon) + (Math.random() - 0.5) * 0.1;
 
             csv += `${lat},${lon},"${library}","${saleDetails}"\n`;
         }
+        progressEmitter.emit('progress', `${data.length}`);
         return csv;
     } catch (error) {
         console.error('Error making lon and lat CSV:', error);
+        progressEmitter.emit('progress', error);
         throw error; // Rethrow or handle as needed
     }
 }
@@ -112,7 +119,7 @@ async function loadData(state) {
     if (!salesDataExists) {
         console.log(`Sales data with lat and lon for ${state} not found, creating it now`);
         var rawSalesData = await readStateSalesCSV(state);
-        console.log(rawSalesData[0])
+        //console.log(rawSalesData[0])
         if (rawSalesData === null || rawSalesData === undefined || rawSalesData.length === 0) {
             console.error('Error reading state sales data:', rawSalesData);
             return null;

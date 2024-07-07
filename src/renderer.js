@@ -144,3 +144,22 @@ document.getElementById('upload-html').addEventListener('click', async () => {
   }
 
 })
+
+const ws = new WebSocket('ws://localhost:8080');
+
+ws.onmessage = function(event) {
+    const message = JSON.parse(event.data);
+    if (message.type === 'progress') {
+        document.getElementById('progress').textContent = `Loading: ${message.value} coordinates found`;
+    }
+    if (message.type === 'fail') {
+        document.getElementById('progress').textContent = `Warning: ${message.value}`;
+    }
+    if (message.type === 'done') {
+        document.getElementById('progress').textContent = `Done: ${message.value} coordinates found`;
+    }
+};
+
+ws.onopen = function(event) {
+    ws.send('Client connected');
+};
