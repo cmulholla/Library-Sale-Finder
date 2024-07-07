@@ -2,7 +2,7 @@
 
 The Booksales Data Map project is an Electron application designed to visualize book sale events across different states in the U.S. It pulls HTML sales data from `https://www.booksalefinder.com/`, parses it using BeautifulSoup4 (bs4) in a Python backend, stores it for future use, and displays the information using Leaflet on an interactive map. This project leverages Electron Forge for simplifying the build process and managing the application lifecycle.
 
-![Example of all Michigan book sales shown in app](./image.png)
+![Example of all Michigan book sales shown in app](./example.png)
 
 If you want an exe of this project, just message me through 20cmulholland@gmail.com and I'll compile and upload one through this github page.
 
