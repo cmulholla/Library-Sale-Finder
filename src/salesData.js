@@ -68,7 +68,7 @@ async function makeLonLatCSV(data, findState) {
 
             csv += `${lat},${lon},"${library}","${saleDetails}"\n`;
         }
-        progressEmitter.emit('progress', `${data.length}`);
+        progressEmitter.emit('progress', `${data.length} finished`);
         return csv;
     } catch (error) {
         console.error('Error making lon and lat CSV:', error);
