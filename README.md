@@ -1,6 +1,6 @@
 # Booksales Data Map Project
 
-The Booksales Data Map project is an Electron application designed to visualize book sale events across different states in the U.S. It pulls HTML sales data from `https://www.booksalefinder.com/`, parses it using BeautifulSoup4 (bs4) in a Python backend, stores it for future use, and displays the information using Leaflet on an interactive map. This project leverages Electron Forge for simplifying the build process and managing the application lifecycle.
+The Booksales Data Map project is an Electron application designed to visualize book sale events across different states in the U.S. It pulls HTML sales data from `https://www.booksalefinder.com/`, parses it using JSDOM, stores it for future use, and displays the information using Leaflet on an interactive map. This project leverages Electron Forge for simplifying the build process and managing the application lifecycle.
 
 ![Example of all Michigan book sales shown in app](./example.png)
 
@@ -9,7 +9,7 @@ If you want an exe of this project, just message me through 20cmulholland@gmail.
 ## Features
 
 - **Electron Application**: Built with Electron, providing a native desktop application experience across Windows, macOS, and Linux.
-- **Data Scraping and Parsing**: The user uploads an HTML document which is parsed by JSDOM
+- **Data Scraping and Parsing**: The user uploads an HTML document which JSDOM parses
 - **Data Storage**: Stores parsed data in a CSV file, reducing the need for repeated uploading.
 - **Interactive Map Visualization**: Displays book sales data on an interactive map using Leaflet.js, offering a user-friendly interface for exploring events.
 - **Electron Forge Integration**: Uses Electron Forge for building, running, and packaging the application, streamlining development and deployment processes.
@@ -34,10 +34,10 @@ If you want an exe of this project, just message me through 20cmulholland@gmail.
 ## Setup and Installation
 
 1. **Clone the Repository**:
-  - git clone https://github.com/yourusername/booksales-data-map.git
+  - git clone https://github.com/cmulholla/Library-Sale-Finder.git
 
 2. **Navigate to the Project Directory**:
-  - cd booksales-data-map
+  - cd Library-Sale-Finder
 3. **Install Dependencies**:
   - For Node.js and Electron:
   ```npm install```
