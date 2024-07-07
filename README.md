@@ -4,6 +4,8 @@ The Booksales Data Map project is an Electron application designed to visualize 
 
 ![Example of all Michigan book sales shown in app](./example.png)
 
+If you want an exe of this project, just message me through 20cmulholland@gmail.com and I'll compile and upload one through this github page.
+
 ## Features
 
 - **Electron Application**: Built with Electron, providing a native desktop application experience across Windows, macOS, and Linux.
