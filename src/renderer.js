@@ -17,16 +17,22 @@ document.getElementById('reset-to-system').addEventListener('click', async () =>
 })
 */
 
+const mde = new EasyMDE({element: document.getElementById('saleDetails')});
+
 // if a state is selected, enable the "Load Sales Data" and the "upload HTML" button
 document.getElementById('state').addEventListener('change', () => {
   var state = document.getElementById('state').value;
   if (state != "") {
     document.getElementById('load-salesData').disabled = false;
     document.getElementById('upload-html').disabled = false;
+    document.getElementById('grab-index').disabled = false;
+    document.getElementById('add-sale').disabled = false;
   }
   else {
     document.getElementById('load-salesData').disabled = true;
     document.getElementById('upload-html').disabled = true;
+    document.getElementById('grab-index').disabled = true;
+    document.getElementById('add-sale').disabled = true;
   }
 })
 
@@ -38,6 +44,8 @@ async function loadSalesData() {
   if (state == "") {
     return;
   }
+
+  var search = document.getElementById('search').value
 
   // delete the map if it exists to stop "Map container is already initialized"
 
@@ -53,9 +61,23 @@ async function loadSalesData() {
   newMap.style.flex = '1'
   newMap.style.height = '96vh'
   document.getElementById('split').appendChild(newMap)
-
-  // Your code here
+  
   var data = await window.maps.getData(state)
+  // convert the csv string into a JSON object
+  data = d3.csvParse(data);
+
+
+  var userData
+
+  try {
+    userData = await window.maps.getUserData(state)
+    userData = d3.csvParse(userData);
+    userData = userData.filter((v,i,a)=>v.Latitude !== "" && v.Longitude !== "")
+  }
+  catch (error) {
+    console.error('Error getting user data:', error)
+    userData = []
+  }
   //console.log(data)
   /*
     Example of data in CSV file:
@@ -63,14 +85,18 @@ async function loadSalesData() {
     42.3315509,-83.0466403,Festival of Books!,July 21
   */
 
-  // convert the csv string into a JSON object
-  data = d3.csvParse(data);
 
   // filter out duplicate rows
   data = data.filter((v,i,a)=>a.findIndex(t=>(t.Latitude === v.Latitude && t.Longitude===v.Longitude))===i)
 
   // filter out rows with missing lat or lon
   data = data.filter((v,i,a)=>v.Latitude !== "" && v.Longitude !== "")
+
+  // filter out rows that don't contain the search term, if the search term exists
+  if (search != "") {
+    data = data.filter((v,i,a)=>v.Library.toLowerCase().includes(search.toLowerCase()) || v.SaleDetails.toLowerCase().includes(search.toLowerCase()))
+    userData = userData.filter((v,i,a)=>v.Library.toLowerCase().includes(search.toLowerCase()) || v.SaleDetails.toLowerCase().includes(search.toLowerCase()))
+  }
 
   // find the average lon and lat
   var latSum = 0.0;
@@ -120,10 +146,32 @@ async function loadSalesData() {
     L.marker([lat, lon]).addTo(map).bindPopup("<b>" + name + "</b><br>" + details);
   }
 
+  for (var i = 0; i < userData.length; i++) {
+    var row = userData[i];
+    var lat = row.Latitude;
+    var lon = row.Longitude;
+    var name = row.Library;
+    var details = row.SaleDetails;
 
-  var marker = L.marker([51.5, -0.09]).addTo(map);
+    // convert the markdown sales details into HTML
+    details = mde.options.previewRender(details, mde)
 
-  marker.bindPopup("<b>Hello world!</b><br>I am a popup.");
+    //console.log(row)
+
+    // make the marker green
+    var customIcon = L.icon({
+      iconUrl: 'https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png',
+      shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.1/images/marker-shadow.png',
+      iconSize: [25, 41],
+      iconAnchor: [12, 41],
+      popupAnchor: [1, -34],
+      shadowSize: [41, 41]
+    });
+
+    L.marker([lat, lon], {icon: customIcon}).addTo(map).bindPopup("<b>" + name + "</b><br>" + details);
+
+  }
+
 }
 
 document.getElementById('load-salesData').addEventListener('click', loadSalesData);
@@ -143,6 +191,58 @@ document.getElementById('upload-html').addEventListener('click', async () => {
     loadSalesData()
   }
 
+})
+
+document.getElementById('grab-index').addEventListener('click', async () => {
+
+  var state = document.getElementById('state').value;
+  var index = document.getElementById('index').value;
+
+  var sale = await window.maps.grabSale(state, index)
+
+  if (sale === false) {
+    // clear the input fields
+    document.getElementById('city').value = ""
+    document.getElementById('libraryName').value = ""
+    mde.value("")
+    document.getElementById('lat').value = ""
+    document.getElementById('lon').value = ""
+
+    return
+  }
+
+  console.log(sale)
+
+  // set the input fields to the grabbed sale
+  document.getElementById('city').value = ""
+  document.getElementById('libraryName').value = sale.Library
+  mde.value(sale.SaleDetails)
+  document.getElementById('lat').value = sale.Latitude
+  document.getElementById('lon').value = sale.Longitude
+})
+
+document.getElementById('add-sale').addEventListener('click', async () => {
+  var city = document.getElementById('city').value
+  var state = document.getElementById('state').value
+  var libraryName = document.getElementById('libraryName').value
+  var saleDetails = mde.value()
+  var lat = document.getElementById('lat').value
+  var lon = document.getElementById('lon').value
+  var index = document.getElementById('index').value
+
+  var success = await window.maps.addSale(city, state, libraryName, saleDetails, lat, lon, index)
+
+  if (success) {
+    loadSalesData()
+
+    // clear the input fields
+    document.getElementById('city').value = ""
+    document.getElementById('libraryName').value = ""
+    mde.value("")
+    document.getElementById('lat').value = ""
+    document.getElementById('lon').value = ""
+    document.getElementById('index').value = ""
+  }
 })
 
 const ws = new WebSocket('ws://localhost:8080');

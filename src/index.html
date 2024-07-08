@@ -8,6 +8,8 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
   <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.js"></script> 
 </head>
 <body>
   <div id="split" style="display: flex;">
@@ -73,6 +75,7 @@
       <option value="WI">Wisconsin</option>
       <option value="WY">Wyoming</option>
     </select>
+    <input type="text" id="search" placeholder="Search">
     <br>
     <button id="load-salesData" disabled>Load Data</button>
     <br>
@@ -80,6 +83,13 @@
     You can do this by going to the state of your choice, pressing ctrl+s, and saving the page as a single HTML file. <br>
     <button id="upload-html" disabled>Upload HTML</button>
     <p id="progress"></p>
+    <button id="grab-index" disabled>Grab Index</button> <input type="text" id="index" placeholder="index"> <br>
+    <input type="text" id="city" placeholder="City">
+    <input type="text" id="libraryName" placeholder="Library Name">
+    <textarea id="saleDetails" placeholder="Sale Details" style="height: 10vh"></textarea>
+    <input type="text" id="lat" placeholder="Latitude">
+    <input type="text" id="lon" placeholder="Longitude"> <br>
+    <button id="add-sale" disabled>Add/Update Sale</button>
     </div>
     <div id="map" style="flex: 1; height: 96vh;"></div>
   </div>

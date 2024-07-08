@@ -2,6 +2,7 @@ const { app, BrowserWindow, ipcMain, nativeTheme, dialog } = require('electron')
 const path = require('node:path')
 let salesData = require('./salesData');
 let grabSalesData = require('./grabSalesData');
+let addUserSale = require('./addUserSale'); // addUserSale, grabUserSalesCSVatIndex 
 const fs = require('node:fs').promises;
 const WebSocket = require('ws');
 const progressEmitter = require('./eventEmitter');
@@ -87,6 +88,24 @@ wss.on('connection', function connection(ws) {
         ws.send(JSON.stringify({ type: 'progress', value: progress }));
     });
 });
+
+//  addUserSale, grabUserSalesCSVatIndex
+
+//city, state, libraryName, saleDetails, lat, lon, index
+ipcMain.handle('maps:add-sale', async (event, city, state, libraryName, saleDetails, lat, lon, index) => {
+  var result = await addUserSale.addUserSale(city, state, libraryName, saleDetails, lat, lon, index);
+  return result;
+})
+
+ipcMain.handle('maps:grab-sale', async (event, state, index) => {
+  var result = await addUserSale.grabUserSalesCSVatIndex(state, index);
+  return result;
+})
+
+ipcMain.handle('maps:get-user-data', async (event, state) => {
+  var userSales = await salesData.loadUserData(state);
+  return userSales;
+})
 
 app.whenReady().then(() => {
   createWindow()

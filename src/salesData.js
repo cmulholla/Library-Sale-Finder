@@ -63,8 +63,8 @@ async function makeLonLatCSV(data, findState) {
             var library = row.Library;
             var saleDetails = row.SaleDetails;
             // Add some random jitter to the lat and lon to avoid overlapping points
-            lat = parseFloat(lat) + (Math.random() - 0.5) * 0.1;
-            lon = parseFloat(lon) + (Math.random() - 0.5) * 0.1;
+            lat = parseFloat(lat) + (Math.random() - 0.5) * 0.05;
+            lon = parseFloat(lon) + (Math.random() - 0.5) * 0.05;
 
             csv += `${lat},${lon},"${library}","${saleDetails}"\n`;
         }
@@ -133,4 +133,19 @@ async function loadData(state) {
     return salesData;
 }
 
-module.exports = { loadData };
+async function loadUserData(state) {
+    const userSalesCSVPath = path.join(__dirname, '..', 'addedCSVdata', `userSales${state}.csv`);
+    const userSalesCSVExists = await fs.access(userSalesCSVPath).then(() => true).catch(() => false);
+
+    if (!userSalesCSVExists) {
+        console.log(`User sales data for ${state} not found`);
+        return null;
+    }
+
+    const userSalesCSV = await fs.readFile(userSalesCSVPath, 'utf8');
+    // Process your CSV data here
+    return userSalesCSV;
+
+}
+
+module.exports = { loadData, getLatLon, loadUserData };
