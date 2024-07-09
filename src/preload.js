@@ -11,7 +11,8 @@ contextBridge.exposeInMainWorld('maps', {
   getFilePath: () => ipcRenderer.invoke('maps:get-file-path'),
   addSale: (city, state, libraryName, saleDetails, lat, lon, index) => ipcRenderer.invoke('maps:add-sale', city, state, libraryName, saleDetails, lat, lon, index),
   grabSale: (state, index) => ipcRenderer.invoke('maps:grab-sale', state, index),
-  getUserData: (state) => ipcRenderer.invoke('maps:get-user-data', state)
+  getUserData: (state) => ipcRenderer.invoke('maps:get-user-data', state),
+  getDateAdded: (state) => ipcRenderer.invoke('maps:get-date-added', state),
 })
 
 contextBridge.exposeInMainWorld('helloWorld', {

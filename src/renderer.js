@@ -75,7 +75,8 @@ async function loadSalesData() {
     userData = userData.filter((v,i,a)=>v.Latitude !== "" && v.Longitude !== "")
   }
   catch (error) {
-    console.error('Error getting user data:', error)
+    //console.error('Error getting user data:', error)
+    // user data not found
     userData = []
   }
   //console.log(data)
@@ -104,11 +105,11 @@ async function loadSalesData() {
   for (row in data) {
     row = data[row]
     if (parseFloat(row.Latitude) == NaN || parseFloat(row.Longitude) == NaN) {
-      console.log(row.Latitude, row.Longitude)
+      console.error("one or more is NaN: " + row.Latitude, row.Longitude)
       continue;
     }
     else if (latSum == NaN || lonSum == NaN) {
-      console.log(latSum, lonSum)
+      console.error(latSum, lonSum)
       break;
     }
     
@@ -118,7 +119,7 @@ async function loadSalesData() {
   var latAvg = latSum / data.length;
   var lonAvg = lonSum / data.length;
 
-  console.log(latAvg, lonAvg)
+  //console.log(latAvg, lonAvg)
 
   var map = L.map('map').setView([latAvg, lonAvg], 6);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -146,6 +147,7 @@ async function loadSalesData() {
     L.marker([lat, lon]).addTo(map).bindPopup("<b>" + name + "</b><br>" + details);
   }
 
+  // Loop through the user data
   for (var i = 0; i < userData.length; i++) {
     var row = userData[i];
     var lat = row.Latitude;
@@ -172,9 +174,25 @@ async function loadSalesData() {
 
   }
 
+  // Add the date added to the right of the "Load Sales Data" button
+
+  var dateAdded = await window.maps.getDateAdded(state)
+    if (dateAdded === false) {
+      document.getElementById('date-added').innerHTML = "Date of file: Not found"
+      return
+    }
+
+    document.getElementById('date-added').innerHTML = "Date of file: " + dateAdded
+
 }
 
 document.getElementById('load-salesData').addEventListener('click', loadSalesData);
+
+document.getElementById('search').addEventListener('keydown', async (event) => {
+  if (event.key === "Enter") {
+    loadSalesData()
+  }
+})
 
 document.getElementById('upload-html').addEventListener('click', async () => {
   var state = document.getElementById('state').value;
@@ -189,6 +207,13 @@ document.getElementById('upload-html').addEventListener('click', async () => {
 
   if (success) {
     loadSalesData()
+    var dateAdded = await window.maps.getDateAdded(state)
+    if (dateAdded === false) {
+      document.getElementById('date-added').innerHTML = "Date of file: Not found"
+      return
+    }
+
+    document.getElementById('date-added').innerHTML = "Date of file: " + dateAdded
   }
 
 })
@@ -211,7 +236,7 @@ document.getElementById('grab-index').addEventListener('click', async () => {
     return
   }
 
-  console.log(sale)
+  //console.log(sale)
 
   // set the input fields to the grabbed sale
   document.getElementById('city').value = ""

@@ -1,6 +1,7 @@
 const path = require('node:path');
 const fs = require('node:fs').promises;
 const { JSDOM } = require('jsdom');
+const progressEmitter = require('./eventEmitter');
 
 function findBefore(s, sub, startInd) {
     if (s.indexOf(sub) === -1) {
@@ -137,6 +138,7 @@ async function saveHTMLtoCSV(HTMLData, state) {
     const data = await convertHTMLDataToJSON(HTMLData);
 
     if (data.length === 0) {
+        progressEmitter.emit('progress', 'No sales data found in HTML');
         throw new Error('No sales data found in HTML');
     }
 

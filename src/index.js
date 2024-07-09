@@ -51,11 +51,13 @@ ipcMain.handle('maps:upload-html', async (event, fpath, state) => {
 
   try {
     if (html === null || html === '') {
+      progressEmitter.emit('progress', 'No HTML data');
       throw new Error('No HTML data');
     }
     await grabSalesData.saveHTMLtoCSV(html, state);
   }
   catch (error) {
+    progressEmitter.emit('progress', error.message);
     console.error('Error saving HTML to CSV:', error);
     return false;
   }
@@ -66,6 +68,36 @@ ipcMain.handle('maps:upload-html', async (event, fpath, state) => {
   if (latLonExists) {
     await fs.unlink(latLonPath);
   }
+
+  // update the date added csv file in ../CSVdata/datesStateAdded.csv
+  var date = new Date();
+  var dateAdded = date.toISOString().slice(0, 10);
+
+  // convert to MM-DD-YYYY format
+  dateAdded = dateAdded.slice(5, 7) + '-' + dateAdded.slice(8, 10) + '-' + dateAdded.slice(0, 4);
+
+  var dateAddedPath = path.join(__dirname, '..', 'CSVdata', 'datesStateAdded.csv');
+  var dateAddedExists = await fs.access(dateAddedPath).then(() => true).catch(() => false);
+  if (!dateAddedExists) {
+    await fs.writeFile(dateAddedPath, 'State,DateAdded\n');
+  }
+
+  var dateAddedCSV = await fs.readFile(dateAddedPath, 'utf8');
+  const d3 = await import('d3-dsv');
+  var dateAddedJSON = d3.csvParse(dateAddedCSV);
+  var stateExists = false;
+  for (var i = 0; i < dateAddedJSON.length; i++) {
+    if (dateAddedJSON[i].State === state) {
+      dateAddedJSON[i].DateAdded = dateAdded;
+      stateExists = true;
+      break;
+    }
+  }
+  if (!stateExists) {
+    dateAddedJSON.push({ State: state, DateAdded: dateAdded });
+  }
+  var dateAddedCSV = d3.csvFormat(dateAddedJSON);
+  await fs.writeFile(dateAddedPath, dateAddedCSV);
 
   return true;
 })
@@ -79,6 +111,25 @@ ipcMain.handle('maps:get-file-path', async (event) => {
   } else {
     return filePaths[0];
   }
+})
+
+ipcMain.handle('maps:get-date-added', async (event, state) => {
+  var dateAddedPath = path.join(__dirname, '..', 'CSVdata', 'datesStateAdded.csv');
+  var dateAddedExists = await fs.access(dateAddedPath).then(() => true).catch(() => false);
+  if (!dateAddedExists) {
+    return false;
+  }
+  var dateAddedCSV = await fs.readFile(dateAddedPath, 'utf8');
+  const d3 = await import('d3-dsv');
+  var dateAddedJSON = d3.csvParse(dateAddedCSV);
+
+  for (var i = 0; i < dateAddedJSON.length; i++) {
+    if (dateAddedJSON[i].State === state) {
+      return dateAddedJSON[i].DateAdded;
+    }
+  }
+
+  return "6-26-2024";
 })
 
 const wss = new WebSocket.Server({ port: 8080 });

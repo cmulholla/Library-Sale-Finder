@@ -1,89 +1,701 @@
 City,Library,SaleDetails
-"Anderson, IN",Anderson Public Library,July 11; Aug 8; Sept 12; Oct 10; Nov 14; Dec 12
-"Auburn, IN",Friends of Eckhart Library,July 13; Aug 10; Sept 14; Oct 12; Nov 9; Dec 14
-"Avon, IN",Avon Library,June 29; July 13; July 27; Aug 10; Aug 24; Sept 14; Sept 28; Oct 12; Oct 26; Nov 9; Nov 23; Dec 14; Dec 28
-"Bloomfield, IN",Bloomfield-Eastern Greene County Library,Ongoing
-"Bloomington, IN",Monroe County Public Library,Bookstore
-"Bloomington, IN",No Name Found,Ongoing
-"Bloomington, IN",at Monroe County Fairgrounds - Commercial Building West,Oct
-"Brazil, IN",Brazil Public Library,Ongoing
-"Brookston, IN",Brookston-Prairie Twp Public Library,Sept 21
-"Butler, IN",Butler Carnegie Public Library,Aug 7 - 13
-"Centerville, IN",Centerville Center Twp Public Library,Aug 23 - 24
-"Chesterton, IN",Westchester Public Library,Oct
-"Colfax, IN",Colfax Public Library,Aug
-"Columbus, IN",Bartholomew County Public Library,Ongoing
-"Corydon, IN",Friends of Harrison County Library,Bookstore
-"Crawfordsville, IN",Crawfordsville Public Library,July 13; Aug 10; Sept 14; Oct 12; Nov 9; Dec 14
-"Crothersville, IN",Crothersville Library,Ongoing
-"Dale, IN",Lincoln Heritage Public Library,July 20; Aug 17; Sept 21; Nov 16; Dec 21
-"Delphi, IN",Delphi Public Library,Aug 10
-"DeMotte, IN",DeMotte Public Library,Aug
-"East Chicago, IN",Robert A. Pastrick Branch Library,Ongoing
-"Elkhart, IN",Elkhart Public Library,July 6; Aug 3; Sept 7; Oct 5; Nov 2; Dec 7
-"Evansville, IN",Willard Library,Sept 3 - 8
-"Fishers, IN",Fishers Public Library,Ongoing; Bookstore
-"Flora, IN",Flora-Monroe Public Library,Oct
-"Fort Wayne, IN",Allen County Library,Bookstore
-"Goshen, IN",Goshen Public Library,July; Sept; Nov
-"Granger, IN",Harris Branch Library,Ongoing
-"Greencastle, IN",Putnam County Public Library,July 13; Aug 10; Sept 14; Oct 12; Nov 9; Dec 14
-"Greenwood, IN",White River Library,July
-"Hammond, IN",Hammond Public Library,June 29; July 27; Aug 31; Sept 28; Oct 26; Nov 30
-"Hope, IN",Hope Branch Library,Ongoing
-"Huntington, IN",Huntington City-Township Public Library,Ongoing
-"Indianapolis, IN",Indy Library Store,June 22 - 25
-"Indianapolis, IN",No Name Found,July 19 - 21
-"Jeffersonville, IN",Jeffersonville Twp Public Library,June 28 - 29; July 12 - 13; July 26 - 27; Aug 9 - 10; Aug 23 - 24; Sept 13 - 14; Sept 27 - 28; Oct 11 - 12; Oct 25 - 26; Nov 8 - 9; Nov 22 - 23; Dec 13 - 14; Dec 27 - 28
-"Jeffersonville, IN",Jeffersonville Twp - Clarksville Branch,Ongoing
-"Kouts, IN",Kouts Library,Oct
-"La Porte, IN",LaPorte County Public Library,June
-"Lafayette, IN",Tippecanoe County Public Library,Sept 14 - 15
-"Medora, IN",Medora Library,Ongoing
-"Merrillville, IN",Merrillville Branch Library,Aug
-"Michigan City, IN",Michigan City Public Library,Ongoing
-"Middlebury, IN",Middlebury Library,Ongoing
-"Mishawaka, IN",Mishawaka-Penn-Harris Public Library,Ongoing
-"Mishawaka, IN",Bittersweet Branch Library,
-"Mount Vernon, IN",Alexandrian Public Library,Bookstore
-"Muncie, IN",Muncie Public Library,Aug 17 - 18
-"Nappanee, IN",Nappanee Public Library,Ongoing
-"Nashville, IN",No Name Found,Oct
-"Nashville, IN",No Name Found,Ongoing
-"New Albany, IN",New Albany-Floyd County Public Library,June 22; Aug 3; Sept 14; Oct 26; Dec 7
-"New Castle, IN",New Castle Henry County Public Library,Ongoing
-"New Whiteland, IN",Clark Pleasant Public Library,Oct
-"Newburgh, IN",Newburgh-Chandler Public Library,Sept 20 - 22
-"Noblesville, IN",Hamilton East Public Library,Bookstore
-"North Manchester, IN",North Manchester Public Library,Oct 24 - 26
-"Plainfield, IN",Plainfield Public Library,July 10 - 14; Sept 18 - 22; Dec 4 - 8
-"Plymouth, IN",Plymouth Public Library,Ongoing
-"Portage, IN",Portage Public Library,Nov
-"Portland, IN",Jay County Public Library,Aug 22 - 24
-"Portland, IN",No Name Found,Bookstore
-"Richmond, IN",Morrisson-Reeves Library,Nov 7 - 9
-"Rushville, IN",Rushville Public Library,Ongoing
-"Saint Mary-of-the Woods, IN",Providence Spirituality and Conference Center,Sept 27 - Oct 7
-"Scottsburg, IN",Scott County Library,June 22; July 13; July 27; Aug 10; Aug 24; Sept 14; Sept 28; Oct 12; Oct 26; Nov 9; Nov 23; Dec 14; Dec 28
-"Seymour, IN",Jackson County Public Library,July 13; Sept 7; Nov 9
-"South Bend, IN",St. Joseph County Public Library,Bookstore
-"South Haven, IN",South Haven Public Library,Ongoing
-"Speedway, IN",Speedway Public Library,Oct 17 - 19
-"Spencer, IN",Owen County Library,July 13; Aug 10; Oct 12; Nov 9; Dec 14
-"Sullivan, IN",Sullivan County Public Library,July 13; Aug 10; Oct 12; Nov 9; Dec 14
-"Tell City, IN",Tell City-Perry County Public Library,Aug
-"Terre Haute, IN",Vigo County Public Library,Aug 3 - 4; Sept 7 - 8; Oct 5 - 6
-"Terre Haute, IN",Vigo County Public Library,Dec 6 - 9
-"Valparaiso, IN",Valparaiso Public Library,Bookstore
-"Vincennes, IN",Knox County Library,June 28; July 26; Aug 30; Sept 27; Oct 25; Nov 29
-"Washington, IN",Washington Carnegie Public Library,Oct 4 - 5
-"West Lafayette, IN",West Lafayette Public Library,Bookstore
-"Zionsville, IN",Hussey-Mayfield Memorial Public Library,Oct 4 - 6
-"Lexington, KY",Lexington Central Library,Oct
-"Louisville, KY",No Name Found,Aug 22 - 25
-"Dearborn, MI",at the Dearborn Ice Skating Center (DISC),Oct 4 - 6
-"Detroit, MI",Festival of Books!,July 21
-"Alliance, OH",Rodman Public Library,Aug 3 - 7
-"Anderson Township (Cincinnati), OH",Anderson Township Library Association,June 21 - 23
-"Wooster, OH",AAUW and Kiwanis Club of Wooster,Sept 24 - 28
-"Kennett Square, PA",Unionville HS Gymnasium,"Feb 22 - 23,  2025"
+"Anderson, IN",Anderson Public Library,"
+<img src='img/null.gif' height='1' width='680'><br>
+July 11; Aug 8; Sept 12; Oct 10; Nov 14; Dec 12<br><ul><li>Thu 10-12:30 and 4:30-6:30
+</li><li>25,000 books; 10% donated; 75% hardcover; <b>no buyer restrictions</b>; most .25</li><li>Some vendors come a week before the sale</li></ul>
+"
+"Auburn, IN",Friends of Eckhart Library,"
+July 13; Aug 10; Sept 14; Oct 12; Nov 9; Dec 14<br><ul><li>Sat 10-3
+</li><li>Preview: Sat 9-10, Friends; join at door
+</li><li>3,500 books; 80% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; paperbacks .50; hardcovers $1</li><li>Books are $2 per bag with the purchase of a Friends bag</li></ul>
+"
+"Avon, IN",Avon Library,"
+<img src='img/null.gif' height='1' width='680'><br>
+July 13; July 27; Aug 10; Aug 24; Sept 14; Sept 28; Oct 12; Oct 26; Nov 9; Nov 23; Dec 14; Dec 28<br><ul><li>2nd and 4th Saturdays of each month
+</li><li>5,000+ books; 20% donated; 60% hardcover; sorted; <b>no buyer restrictions</b>; paperbacks .50; hardcovers $1</li><li>We sell some online, some upstairs in the library daily (books at a slightly higher price). </li><li>Credit cards accepted</li></ul><br><hr>
+Ongoing<br><ul><li>Library hours
+</li></ul>
+"
+"Bloomfield, IN",Bloomfield-Eastern Greene County Library,"
+Ongoing<br><ul><li>Library hours: Mon-Thu 10-8, Fri, Sat 10-5
+</li><li>Paperbacks .50; hardcovers $1</li><li>Occasionally have sets, movies, puzzles, etc. bargain-basement prices</li></ul>
+"
+"Bloomington, IN",Monroe County Public Library,"
+Bookstore<br><ul><li>Tue, Thu 11-7, Fri, Sat 11-5, Sun 1-5
+</li><li>11,000 books; 75% donated; 50% hardcover; sorted; .25-$3</li><li></li><li>Credit cards accepted</li></ul>
+"
+"Bloomington, IN",No Name Found,"
+Ongoing<br><ul><li>Every Thursday 9-4
+</li><li>1,000 books; 100% donated; 20% hardcover; sorted; <b>no buyer restrictions</b>; .25-$1</li><li>Valuable books and media are reserved for the annual book sale<br>Credit cards accepted</li></ul>
+"
+"Bloomington, IN",at Monroe County Fairgrounds - Commercial Building West,"
+Oct<br><ul><li>Thu, Fri 9-7, Sat-Tue 9-6
+</li><li>50,000 books; 100% donated; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; $1-$3</li><li>Credit cards accepted</li></ul>
+"
+"Brazil, IN",Brazil Public Library,"
+Ongoing<br><ul><li>Mon-Thu 10-6, Fri, Sat 10-5
+</li><li>Paperbacks, magazines, mostly National Geographics</li></ul>
+"
+"Brookston, IN",Brookston-Prairie Twp Public Library,"
+Sept 21<br><ul><li>9-3
+</li><li>1,000 books; 50% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; paperbacks .50; hardcovers $1; romances &amp; magazines .10</li><li>Brookston's Apple - Popcorn Festival</li></ul>
+"
+"Butler, IN",Butler Carnegie Public Library,"
+Aug 7 - 13<br><ul><li>Mon-Thu 9-7; Fri, Sat 9-1
+</li><li>3,000 books; 60% donated; 35% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; $1-$2.50; Mon $5/bag, Tue free</li><li>Credit cards accepted</li></ul>
+"
+"Centerville, IN",Centerville Center Twp Public Library,"
+Aug 23 - 24<br><ul><li>Fri 10-5, Sat 10-3
+</li><li>4,000 books; 50% donated; 50% hardcover; sorted; <b>no buyer restrictions</b>; and jigsaw puzzles; .50-$1</li><li>Some books have been removed before sale</li><li>Archway Days festival</li></ul>
+"
+"Chesterton, IN",Westchester Public Library,"
+Oct<br><ul><li>Sat, Sun 9-4
+</li><li>Preview: Fri 4-8pm, Friends; join at door $5 ind., $10 fam.
+</li><li>4,000 books; 75% donated; 50% hardcover; sorted; $1-$5</li><li>Some books removed to sell online. No scanners allowed.</li></ul>
+"
+"Colfax, IN",Colfax Public Library,"
+<img src='img/null.gif' height='1' width='680'><br>
+Aug<br><ul><li>Fri 4-9pm, Sat 9-9
+</li><li>Hickory Days festival</li></ul>
+"
+"Columbus, IN",Bartholomew County Public Library,"
+Ongoing<br>
+"
+"Corydon, IN",Friends of Harrison County Library,"
+Bookstore<br><ul><li>2nd &amp; 4th Sat of each month, 9-3 (closed 4th Sat in Nov &amp; Dec)
+</li><li>Paperbacks .25; hardcovers $1; gift-quality books $3. Children's books less.</li><li>Books, jigsaw puzzles, textbooks, audio and video tapes and magazines</li></ul>
+"
+"Crawfordsville, IN",Crawfordsville Public Library,"
+July 13; Aug 10; Sept 14; Oct 12; Nov 9; Dec 14<br><ul><li>Sat 10-4
+</li><li>CASH ONLY</li></ul>
+"
+"Crothersville, IN",Crothersville Library,"
+Ongoing<br><ul><li>Library hours
+</li></ul>
+"
+"Dale, IN",Lincoln Heritage Public Library,"
+July 20; Aug 17; Sept 21; Nov 16; Dec 21<br><ul><li>Sat 9-12:45
+</li><li>Preview: No preview - Friends discounts apply
+</li><li>10,000 books; 45% donated; 85% hardcover; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; includes CDs, DVDs, books on CD, etc.; paperbacks .50; hardcovers $2; trade pb $1; Some specials</li><li>Mask required</li></ul><br><hr>
+Oct 19 - 28<br><ul><li>Mon, Tue, Thu 9-8, Wed, Fri 9-6, Sat 9-12:45 (all hours CDT)
+</li><li>Preview: No preview - Friends discounts apply
+</li><li>10,000 books; 45% donated; 85% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; paperbacks .50; hardcovers $1; children's .25-.50; mags .25, 5/$1; CDs .50, 3/$1, CD boxed sets $1; DVDs, audiobooks $2; free VHS tapes</li><li>Sale includes first editions/vintage, A/V, puzzles, mags; any large print, Christian Fiction titles</li></ul>
+"
+"Delphi, IN",Delphi Public Library,"
+Aug 10<br><ul><li>Sat 9-2
+</li><li>Preview: Fri, 3-6pm, Friends; join at door
+</li><li>1,000 books; 100% donated; 33% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; paperbacks .50; hardcovers $1</li></ul>
+"
+"DeMotte, IN",DeMotte Public Library,"
+Aug<br><ul><li>First day, Sat 9-5, thereafter library hours
+</li><li>Preview: Fri prior, 1-5pm, Friends; join at door
+</li><li>3,000 books; 90% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .50-$1</li></ul>
+"
+"East Chicago, IN",Robert A. Pastrick Branch Library,"
+Ongoing<br>
+"
+"Elkhart, IN",Elkhart Public Library,"
+Aug 3; Sept 7; Oct 5; Nov 2; Dec 7<br><ul><li>Sat 9-2:30
+</li><li>400 books; 2% donated; 80% hardcover; sorted; <b>no buyer restrictions</b>; .50-$2</li><li>Books scanned for purchase by 3rd party. Nearly all books culled from the library system.</li><li>Credit cards accepted</li></ul>
+"
+"Evansville, IN",Willard Library,"
+<img src='img/null.gif' height='1' width='680'><br>
+Sept 3 - 8<br><ul><li>Mon-Fri, libray hours
+</li><li>Thu half price, Fri-Sun $20 bag (bags provided)</li><li>Sale includes rare, collectibles, priced as marked</li></ul>
+"
+"Fishers, IN",Fishers Public Library,"
+Ongoing; Bookstore<br><ul><li>Library hours
+</li></ul>
+"
+"Flora, IN",Flora-Monroe Public Library,"
+Sept 28 - Oct 5<br><ul><li>Library hours
+</li><li>500 books; 50% donated; 60% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .25-$1</li><li>CASH ONLY</li></ul>
+"
+"Fort Wayne, IN",Allen County Library,"
+Bookstore<br>
+"
+"Goshen, IN",Goshen Public Library,"
+July; Sept; Nov<br><ul><li>Thu 10-7:30
+</li><li>Books, CDs, DVDs</li></ul>
+"
+"Granger, IN",Harris Branch Library,"
+Ongoing<br><ul><li>Library hours
+</li><li>.25-$1</li><li>Credit cards accepted</li></ul>
+"
+"Greencastle, IN",Putnam County Public Library,"
+July 13; Aug 10; Sept 14; Oct 12; Nov 9; Dec 14<br><ul><li>Sat 9-5
+</li></ul><br><hr>
+Ongoing<br><ul><li>Library hours
+</li></ul>
+"
+"Greenwood, IN",White River Library,"
+July<br><ul><li>Fri 9-6, Sat 9-5
+</li><li>Preview: Thu 4-8pm, Friends; join at door $10 ind., $15 fam.
+</li><li>5,000 books; 50% donated; 60% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; paperbacks .50; hardcovers $1; children's .25-.50</li></ul>
+"
+"Hammond, IN",Hammond Public Library,"
+July 27; Aug 31; Sept 28; Oct 26; Nov 30<br><ul><li>Sat 9:30-4:30
+</li><li>Sorted; <b>no buyer restrictions</b></li><li>Half price on books, mags, movies and music in ongoing sale<br>Sale excludes specially priced items and sets. We do not hold or layaway items.</li></ul><br><hr>
+Ongoing<br><ul><li>Library hours
+</li><li>5,000 books; 100% donated; 75% hardcover; paperbacks .50-$1; hardcovers $1</li></ul>
+"
+"Hope, IN",Hope Branch Library,"
+Ongoing<br><ul><li>Library hours
+</li></ul>
+"
+"Huntington, IN",Huntington City-Township Public Library,"
+<img src='img/null.gif' height='1' width='680'><br>
+Ongoing<br>
+"
+"Indianapolis, IN",Indy Library Store,"
+Aug 17 - 20<br><ul><li>Sat 10-5, Mon, Tue noon-7 (closed Sun)
+</li><li>Preview: Fri 4:30-7:30 pm, Friends; join at door
+</li><li><b>no buyer restrictions</b>; .25-$3; Mon half price, Tue $8/bag</li><li>Some books sold online</li></ul>
+"
+"Indianapolis, IN",No Name Found,"
+July 19 - 21<br><ul><li>Fri 5-8pm, Sat 10-4, Sun 11-2
+</li><li>4,000 books; 100% donated; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; $1-$3 plus individually priced; Sun $5/bag (provided)</li></ul>
+"
+"Jeffersonville, IN",Jeffersonville Twp Public Library,"
+July 12 - 13; July 26 - 27; Aug 9 - 10; Aug 23 - 24; Sept 13 - 14; Sept 27 - 28; Oct 11 - 12; Oct 25 - 26; Nov 8 - 9; Nov 22 - 23; Dec 13 - 14; Dec 27 - 28<br><ul><li>10-1
+</li><li>Sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; paperbacks .50; hardcovers $1; CDs, DVDs, puzzles $1, VHS .10, mags .05</li><li>Credit cards (and contactless payments) accepted</li></ul><br><hr>
+Bookstore<br><ul><li>Usually 2nd &amp; 4th Friday and Saturday 10-1 - call for more info
+</li><li>Lower Level Using the South Lobby Stairs/Elevator</li></ul>
+"
+"Jeffersonville, IN",No Name Found,"
+Ongoing<br><ul><li>Library hours
+</li></ul>
+"
+"Kouts, IN",Kouts Library,"
+Oct<br><ul><li>Fri 10-5, Sat 9-4
+</li><li>Preview: Thu 4-8pm, Friends; join at door ind. $5, senior $3, student $2, fam $10
+</li><li>4,000 books; 50% donated; 65% hardcover; sorted; <b>no buyer restrictions</b>; .10-$1</li><li>During library's weeding process, books that may have higher value are sold online instead of being donated to sale.</li></ul><br><hr>
+Ongoing<br><ul><li>Library hours
+</li></ul>
+"
+"La Porte, IN",LaPorte County Public Library,"
+Ongoing<br><ul><li>Library hours
+</li></ul>
+"
+"Lafayette, IN",Tippecanoe County Public Library,"
+Sept 14 - 15<br><ul><li>Sat, Sun 10-4
+</li><li>Preview: Fri 7-9 pm, Friends; join at door $10/year
+</li><li>20,000 books; 70% donated; 60% hardcover; sorted; paperbacks .50-$1; hardcovers $2; Sun half-price or $8/bag</li><li>About 1,000 items per year sold online</li><li>Credit cards accepted</li></ul>
+"
+"Medora, IN",Medora Library,"
+Ongoing<br><ul><li>Library hours
+</li></ul>
+"
+"Merrillville, IN",Merrillville Branch Library,"
+Aug<br><ul><li>Fri 1-4, Sat 9:30-4
+</li><li>Preview: Thu 4-7pm, Friends; join at door
+</li><li>5,000 books; 10% donated; 60% hardcover; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .25-$1</li></ul><br><hr>
+Ongoing<br><ul><li>Library hours
+</li></ul>
+"
+"Michigan City, IN",Michigan City Public Library,"
+<img src='img/null.gif' height='1' width='680'><br>
+Ongoing<br>
+"
+"Middlebury, IN",Middlebury Library,"
+Ongoing<br>
+"
+"Mishawaka, IN",Mishawaka-Penn-Harris Public Library,"
+Ongoing<br><ul><li>Library hours
+</li><li>.25-$1</li><li>Credit cards accepted</li></ul>
+"
+"Mishawaka, IN",Bittersweet Branch Library,"
+<br><ul><li>Library hours
+</li><li>.25-$1</li><li>Credit cards accepted</li></ul>
+"
+"Mount Vernon, IN",Alexandrian Public Library,"
+Bookstore<br><ul><li>Open when the library is open
+</li><li>Sorted; paperbacks .50; hardcovers $1; Other items as posted</li><li>Bookstore on honor system</li></ul>
+"
+"Muncie, IN",Muncie Public Library,"
+Aug 17 - 18<br><ul><li>Sat 9-2, Sun 1-4
+</li><li>Preview: Thu, Fri 6-8pm, Friends; join at door
+</li><li>10,000+ books; 25% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .75 per pound for most books</li></ul>
+"
+"Nappanee, IN",Nappanee Public Library,"
+Ongoing<br>
+"
+"Nashville, IN",No Name Found,"
+Oct<br><ul><li>Fri, Sat 10-6
+</li><li>4,000 books; 100% donated; 40% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; paperbacks $1; hardcovers $2</li><li>Credit cards accepted</li></ul>
+"
+"Nashville, IN",No Name Found,"
+Ongoing<br><ul><li>Library hours
+</li><li>Many books donated from extensive personal libraries</li></ul>
+"
+"New Albany, IN",New Albany-Floyd County Public Library,"
+Aug 3; Sept 14; Oct 26; Dec 7<br><ul><li>8,000 books; 90% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .25-$1</li><li>Outdoor sale - rain date 1 week later (except Dec)</li><li>8-noon</li></ul>
+"
+"New Castle, IN",New Castle Henry County Public Library,"
+<img src='img/null.gif' height='1' width='680'><br>
+Ongoing<br><ul><li>Library hours
+</li><li><b>no buyer restrictions</b>; Books, albums, audio books, etc.</li><li>Some newly donated books have been pulled</li></ul>
+"
+"New Whiteland, IN",Clark Pleasant Public Library,"
+Oct<br><ul><li>Fri 9-6, Sat 9-5
+</li><li>Preview: Thu 4-8, Friends; join at door $10 ind., $15 fam.
+</li><li>4,500 books; 50% donated; 60% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; paperbacks .50; hardcovers $1; children's .25-.50</li></ul>
+"
+"Newburgh, IN",Newburgh-Chandler Public Library,"
+Sept 20 - 22<br><ul><li>Fri, Sat 9-4:30, Sun 1:30-4:30
+</li><li>Preview: Thu 4:30-7:30pm, Friends; join at door
+</li><li>4,000 books; 20% donated; 60% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .50-$1</li></ul>
+"
+"Noblesville, IN",Hamilton East Public Library,"
+Bookstore<br><ul><li>Mon, Fri 10-noon, Tue, Thu, Sat 10-2, Wed 10-2 &amp; 5:30-8:30pm, Sun 2-4pm
+</li></ul>
+"
+"North Manchester, IN",North Manchester Public Library,"
+Oct 24 - 26<br><ul><li>Thu 9-7, Fri, Sat 9-5
+</li><li>6,000 books; 80% donated; 60% hardcover; sorted; <b>no buyer restrictions</b>; $1-$2</li><li>Local rare book dealer buys a few pre-sale</li><li>Credit cards accepted</li></ul>
+"
+"Plainfield, IN",Plainfield Public Library,"
+July 10 - 14; Sept 18 - 22; Dec 4 - 8<br><ul><li>Library hours
+</li><li>2,000+ books; 50% donated; 80% hardcover; sorted; <b>no buyer restrictions</b>; $1-$2</li><li></li><li>Credit cards accepted</li></ul><br><hr>
+Ongoing<br><ul><li>Kiosk in lobby during library hours
+</li><li>100% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .50-$2</li></ul>
+"
+"Plymouth, IN",Plymouth Public Library,"
+Ongoing<br>
+"
+"Portage, IN",Portage Public Library,"
+Nov<br><ul><li>Thu 10-7, Fri 10-5, Sat 10-3
+</li><li>Preview: Wed 4-7pm, Friends; join at door $5 ind.,This gets you access to preview night for one year for the book sales at the 5 libraries in our system
+</li><li>5,000 books; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; $1</li></ul><br><hr>
+Bookstore<br><ul><li>Mon 12:30-6:30, Sat 10-4 (CDT - Chicago time zone)
+</li></ul>
+"
+"Portland, IN",Jay County Public Library,"
+Aug 22 - 24<br><ul><li>Thu, 8-7, Fri 8-5, Sat 8-noon
+</li><li>2,000 books; 80% donated; 50% hardcover; sorted; <b>not 'picked over'</b></li><li>No scanners allowed</li></ul>
+"
+"Portland, IN",No Name Found,"
+Bookstore<br><ul><li>Tue-Sat noon-4
+</li><li>5,000 books; 100% donated; 50% hardcover; sorted; $1-$5</li><li>Not picked over; no restrictions. Credit cards accepted</li></ul>
+"
+"Richmond, IN",Morrisson-Reeves Library,"
+<img src='img/null.gif' height='1' width='680'><br>
+Nov 7 - 9<br><ul><li>Thu 10-7, Fri 10-5:30, Sat 10-2
+</li><li>8,000 books; 100% donated; 80% hardcover; sorted; <b>no buyer restrictions</b>; paperbacks .50; hardcovers $1</li><li>Cash or check</li></ul>
+"
+"Rushville, IN",Rushville Public Library,"
+Ongoing<br><ul><li>Library hours (except June 1 - August 1)
+</li></ul>
+"
+"Saint Mary-of-the Woods, IN",Providence Spirituality and Conference Center,"
+Sept 27 - Oct 7<br><ul><li>10-4 each day
+</li><li>3,000 books; 100% donated; sorted; <b>no buyer restrictions</b>; $1-$10</li><li>Books are checked for values</li><li>Credit cards accepted</li></ul>
+"
+"Scottsburg, IN",Scott County Library,"
+July 13; July 27; Aug 10; Aug 24; Sept 14; Sept 28; Oct 12; Oct 26; Nov 9; Nov 23; Dec 14; Dec 28<br><ul><li>Sat 9-2
+</li><li>3,000 books; 75% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .50-$1</li></ul>
+"
+"Seymour, IN",Jackson County Public Library,"
+July 13; Sept 7; Nov 9<br><ul><li>Sat 10:30-4
+</li><li>Preview: Fri 4-5:30pm, Sat 10-10:30am Friends; join at door
+</li><li><b>not 'picked over'</b>; .50-$1; Sat 2pm: $5/bag</li><li>Cash only</li></ul><br><hr>
+Ongoing<br><ul><li>Library hours
+</li><li>New books added weekly</li></ul>
+"
+"South Bend, IN",St. Joseph County Public Library,"
+Bookstore<br><ul><li>Sales held every Fri noon-6
+</li><li>5,000 books; 100% donated; 90% hardcover; sorted; .25-$2</li></ul>
+"
+"South Haven, IN",South Haven Public Library,"
+Ongoing<br><ul><li>Library Hours
+</li></ul>
+"
+"Speedway, IN",Speedway Public Library,"
+Oct 17 - 19<br><ul><li>Thu 9:30-7:30; Fri, Sat 9:30-4:30
+</li><li>Preview: Wed 4-7:30pm, Friends; join at door
+</li><li>75% donated; 75% hardcover; sorted; <b>no buyer restrictions</b>; $1-$2</li><li>Some books have been available in the year-round ongoing sale. Some sold online.</li></ul><br><hr>
+Ongoing<br><ul><li>Library hours
+</li></ul>
+"
+"Spencer, IN",Owen County Library,"
+July 13; Aug 10; Oct 12; Nov 9; Dec 14<br><ul><li>Sat 9-2
+</li><li>2,500 books; 40% donated; 50% hardcover; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .25-$1</li></ul><br><hr>
+Sept<br><ul><li>Sat, Sun 9-2
+</li><li><b>not 'picked over'</b></li><li>Booth at Apple Butter Festival on Courthouse Square</li></ul>
+"
+"Sullivan, IN",Sullivan County Public Library,"
+July 13; Aug 10; Oct 12; Nov 9; Dec 14<br><ul><li>Sat 10-1
+</li><li>Sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b></li></ul>
+"
+"Tell City, IN",Tell City-Perry County Public Library,"
+<img src='img/null.gif' height='1' width='680'><br>
+Aug<br><ul><li>Sat 9-4:30, closed Sun, then Mon-Fri 9-4:30
+</li><li>40% donated; 70% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; plus mags, audiobooks, DVDs; First Sat.50-$1; 2nd week $2/box - any size, no limit</li></ul>
+"
+"Terre Haute, IN",Vigo County Public Library,"
+Aug 3 - 4; Sept 7 - 8; Oct 5 - 6<br><ul><li>Sat 9-4, Sun 1-3
+</li><li>50% donated; <b>no buyer restrictions</b>; .50 and up</li><li>Credit cards accepted</li></ul>
+"
+"Terre Haute, IN",Vigo County Public Library,"
+Dec 6 - 9<br><br>Watch this spot for next Special Sale!
+"
+"Union City, IN",Union City Library,"
+Aug 3<br><ul><li>Sat 9-noon
+</li><li>2,500+ books; 25% donated; 80% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .25-$3</li></ul>
+"
+"Valparaiso, IN",Valparaiso Public Library,"
+Bookstore<br><ul><li>Wed  12:30-6:30, Sat 10-4 (CDT - Chicago Time Zone)
+</li></ul>
+"
+"Vincennes, IN",Knox County Library,"
+July 26; Aug 30; Sept 27; Oct 25; Nov 29<br><ul><li>Fri 10-4
+</li><li>75% donated; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; Books, CDs, DVDs, Large number of paperbacks; paperbacks .50; hardcovers $1; .50-$1</li></ul>
+"
+"Washington, IN",Washington Carnegie Public Library,"
+Oct 4 - 5<br><ul><li>Fri noon-5, Sat 10-1
+</li><li>Preview: Fri 10-noon, Friends; join at door
+</li><li>2,000 books; 75% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .50-$1, Bag specials each day</li></ul>
+"
+"West Lafayette, IN",West Lafayette Public Library,"
+Bookstore<br><ul><li>Tue, Thu 3-7,. Wed 10-2 and 2nd Sat each month 10-4
+</li><li>1,200 books; 95% donated; 40% hardcover; sorted; $1-$3</li><li>Special discounts on 2nd Sat of month</li></ul>
+"
+"Zionsville, IN",Hussey-Mayfield Memorial Public Library,"
+Oct 4 - 6<br><ul><li>Fri, Sat 9-5, Sun 1-5
+</li><li>75% donated; 50% hardcover; <b>no buyer restrictions</b>; partly sorted; .10-$3; Sat $10/bag, Sun $5/bag (excludes specials; bags provided)</li><li>Volunteers allowed to purchase prior to preview</li></ul><br><hr>
+Bookstore<br><ul><li>Library hours (But closed during sale events)
+</li></ul>
+"
+"Lexington, KY",Lexington Central Library,"
+Oct<br><br>Watch here for details on the next great book sale!
+"
+"Louisville, KY",No Name Found,"
+<img src='img/null.gif' height='1' width='680'><br>
+Aug 22 - 25<br><ul>
+	<li><span style='color:#FFFFFF'><span style='font-size:16px'><strong><span style='background-color:#006400'>&nbsp;HISTORIC LOCUST GROVE BIG SUMMER BOOK SALE&nbsp;</span></strong></span></span><span style='color:#006400'><span style='font-size:16px'><strong>&nbsp;- The region's best book sale!</strong></span></span></li>
+	<li><span style='font-size:14px'>All the nooks and crannies of Locust Grove’s Audubon room will be filled - &nbsp;<span style='color:#006400'><strong>MORE&nbsp;than 20,000 BOOKS!</strong></span></span></li>
+	<li><strong>Members' Preview</strong>
+	<ul>
+		<li><strong>Thursday&nbsp;August 22,&nbsp;&nbsp;</strong><strong>10:00 a.m. to 7:00 p.m.</strong></li>
+		<li>Membership can be purchased at the door at the preview, or in advance - see our <strong><a href='https://locust-grove-museum-store.myshopify.com/collections/museum-membership' target='_blank'>Membership Page</a>&nbsp;</strong>or call Locust Grove</li>
+	</ul>
+	</li>
+	<li><strong>General Public Sale, August 23 to 26</strong>
+	<ul>
+		<li>Friday, 10:00 a.m. to&nbsp;4:30 p.m.</li>
+		<li>Saturday, 10:00 a.m. to&nbsp;4:30 p.m.</li>
+		<li>Sunday, 10:00 a.m. to&nbsp;4:30 p.m.</li>
+	</ul>
+	</li>
+	<li><span style='color:#006400'><strong>The books are sorted into many&nbsp;categories including:</strong></span>
+	<ul>
+		<li>History</li>
+		<li>Travel</li>
+		<li>Fiction</li>
+		<li>Mysteries</li>
+		<li>Art</li>
+		<li>Science</li>
+		<li>Literature</li>
+		<li>Cookbooks</li>
+		<li>Children's - and more!</li>
+	</ul>
+	</li>
+	<li><span style='color:#006400'><strong>Great Bargains!</strong></span>
+	<ul>
+		<li><strong>Prices start at</strong><strong>&nbsp;$1 for paperbacks and $2 for hardcovers</strong></li>
+	</ul>
+	</li>
+	<li><strong><span style='color:#006400'>Special section of Finer books</span><span style='color:#800080'> </span>are individually priced&nbsp;</strong></li>
+	<li>Credit cards accepted</li>
+	<li>Books were NOT picked over. NO buyer restrictions.</li>
+	<li><strong><em>All proceeds from our book sales support Locust Grove’s continued educational and preservation projects.</em></strong></li>
+	<li><strong><em>Watch for the next great sale in December!</em></strong></li>
+</ul>
+"
+"Dearborn, MI",at the Dearborn Ice Skating Center (DISC),"
+Oct 4 - 6<br><ul>
+	<li><span style='font-size:14px'><span style='color:#B22222'><big><strong>FALL BOOK &amp; MEDIA SALE</strong></big></span></span></li>
+	<li><span style='font-size:14px'><strong>Thousands of books neatly displayed in 40 categories -&nbsp; and&nbsp;media!</strong></span></li>
+	<li><span style='font-size:14px'><strong>Art, History, Military, Children, Cookbooks, Mystery, Collectibles, Reference, CD, DVD, and much more...</strong></span></li>
+	<li><span style='font-size:14px'><strong>October 4, 5, 6, 2024</strong></span></li>
+	<li><strong><span style='color:#B22222'>EARLY ENTRANCE</span>- $15&nbsp;fee </strong>
+	<ul>
+		<li><strong>Friday,&nbsp;9:00 a.m. - 11:00 a.m.</strong></li>
+	</ul>
+	</li>
+	<li><span style='color:#B22222'><strong>FREE ENTRANCE</strong></span>
+	<ul>
+		<li><strong>Friday, 11:00 a.m. - 8:00 p.m.</strong></li>
+		<li><strong>Saturday, 8:00 a.m. to 5:30&nbsp;p.m.&nbsp;</strong></li>
+		<li><strong>Sunday, 8:00 a.m. to 3:00 p.m.&nbsp;</strong>
+		<ul>
+			<li><strong>Sunday Bag Sale </strong></li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li><strong><span style='color:#B22222'>Great Prices</span></strong>:
+	<ul>
+		<li>$1.00 &amp; $2.00</li>
+		<li>Come back for Bag Sale day, Sunday!&nbsp;<strong>$8/bag 2 bags for $15</strong></li>
+	</ul>
+	</li>
+	<li><span style='color:#B22222'><strong>Accepting cash, checks, credit/debit cards</strong></span></li>
+	<li><strong>Elevator and curb transport assistance available!</strong></li>
+	<li><strong>Contact us at :&nbsp;<a href='mailto:Booksale.AAUW.dbn@gmail.com'>Booksale.AAUW.dbn@gmail.com</a><span style='color:#0000FF'>&nbsp;</span></strong></li>
+	<li><strong>'Like' us on FaceBook</strong><strong>&nbsp;</strong><a href='http://www.facebook.com/AAUW.Dearborn.books'><span style='color:#0000CD'>www.facebook.com/AAUW.Dearborn.books</span></a></li>
+	<li><strong><span style='color:#B22222'><em>PROFITS FROM THE BOOK SALE FUND&nbsp;EDUCATIONAL OUTREACH, AND LEADERSHIP PROGRAMS</em></span></strong></li>
+</ul>
+"
+"Detroit, MI",Festival of Books!,"
+July 21<br><ul>
+	<li><strong><span style='color:#FF0000'><span style='font-size:18px'>7</span></span></strong><sup><span style='color:#FF0000'><span style='font-size:18px'>th</span></span></sup><strong><span style='color:#FF0000'><span style='font-size:18px'>&nbsp;Detroit Festival of Books!</span>&nbsp;</span></strong><span style='font-size:16px'>(aka: <strong>Detroit Bookfest</strong>)</span></li>
+	<li><span style='font-size:16px'><strong>Sunday, July 21, 2024</strong></span>
+	<ul>
+		<li><span style='font-size:16px'><strong>10am - 4pm </strong></span></li>
+	</ul>
+	</li>
+	<li><span style='font-size:18px'><strong>FREE entry! </strong></span></li>
+	<li>Festival takes&nbsp;place at Eastern Market&nbsp;<strong>Shed 5 </strong>
+	<ul>
+		<li>(Shed 5 is wheelchair-accessible)</li>
+	</ul>
+	</li>
+	<li><span style='color:#FF0000'><span style='font-size:14px'><strong>Featuring more than 100 vendors from all over the USA &amp; Canada, selling BOOKS</strong>:</span></span>
+	<ul>
+		<li><strong>Used</strong></li>
+		<li><strong>Rare</strong></li>
+		<li><strong>Antiquarian</strong></li>
+		<li><strong>Unusual</strong></li>
+		<li><strong>Ephemera</strong></li>
+		<li><strong>Authors - and more</strong></li>
+	</ul>
+	</li>
+	<li>ALSO Tons of
+	<ul>
+		<li><strong>Vinyl records</strong></li>
+		<li><strong>Comic books</strong></li>
+		<li><strong>Creative arts</strong></li>
+		<li><strong>Vintage board games -&nbsp; and more!</strong></li>
+	</ul>
+	</li>
+	<li><strong>Enjoy FOOD, BEER,&nbsp; </strong>and <strong>DJ <em>Seven Whales</em> bringing the</strong> <strong>FUNK MUSIC! </strong></li>
+	<li><strong><span style='color:#FF0000'><span style='font-size:14px'>KID-FRIENDLY EVENT!</span> </span>Children in attendance may construct their very own book with the assistance of volunteers from 'Arts &amp; Scraps',&nbsp;a Detroit-based nonprofit that helps children repurpose discarded materials into educational and creative projects.</strong></li>
+	<li><strong>We are pleased to announce the participation of <a href='https://detroitbookfest.us3.list-manage.com/track/click?u=095977e3492c8e9a718c9e41d&amp;id=1bf78a65d3&amp;e=4cfe0a2cd8' target='_blank'>Birdie’s Bookmobile</a> at at this year’s festival. Birdie’s Bookmobile is dedicated to eliminating book deserts and making books more accessible to children in Detroit. Birdie’s Bookmobile helps families build print-rich home environments, improve literacy outcomes, and grow lifelong readers. In addition to accepting donations of children’s and young-adult books, the bookmobile will be offering several fun activities for children attending this year’s Bookfest, including:</strong>
+	<ul>
+		<li><span style='color:#FF0000'><strong>Create Your Own Comic Strip</strong></span></li>
+		<li><span style='color:#FF0000'><strong>Have Fun with Mad Libs</strong></span></li>
+		<li><span style='color:#FF0000'><strong>“Once Upon a Time”</strong></span> — <span style='color:#FF0000'><strong>children take turns adding one sentence to a story. The story will be available to read on the Bookmobile website after Bookfest.</strong></span></li>
+	</ul>
+	</li>
+	<li><strong>There is no admission fee at Bookfest, nor is there any charge for children to participate in any activities</strong>.
+	<ul>
+	</ul>
+
+	<ul>
+		<li>Book donations help build home libraries, promote shared reading experiences, and impact generations. Every book counts! Book needs for children from birth to age 18 include:
+		<ul>
+			<li>board books • picture books • early readers</li>
+			<li>chapter books • graphic novels</li>
+			<li>middle-grade books</li>
+			<li>young-adult books</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li><strong>Questions? <a href='mailto:books@detroitbookfest.com'>books@detroitbookfest.com</a></strong></li>
+	<li><strong><a href='https://detroitbookfest.com/' target='_blank'>Bookfest Home Page</a></strong></li>
+	<li><strong><a href='https://www.facebook.com/events/334916972863270/?active_tab=discussion' target='_blank'>Facebook Event Page</a></strong></li>
+	<li><strong><a href='https://detroitbookfest.com/event-details-facts/' target='_blank'>CLICK HERE</a> for all the event details!</strong></li>
+	<li>Want to see the size of Shed 5? <strong><a href='https://my.matterport.com/show/?m=NuvpiB1yM6b' target='_blank'>Click here for a virtual tour</a></strong></li>
+	<li><span style='color:#FF0000'><strong>Come enjoy this&nbsp;glorious day of BOOKS, vinyl records, comics, creative arts, food, beer, funk music and more! What's not to love?!</strong></span></li>
+	<li>Check the <a href='https://detroitbookfest.com/6th-annul-detroit-bookfest-photos-2023/?fbclid=IwAR1g5QPsbGboC1cP_5PguCcvb1XmvfO9z-oRJxNFh7zsH2n5vEubcdFcWVs' target='_blank'>Bookfest photos from last year</a>!</li>
+</ul>
+"
+"Romeo, MI",at Community Center,"
+Aug 29 - Sept 1<br><ul>
+	<li><span style='font-size:14px'><span style='color:#FF0000'><strong>Romeo Area AAUW</strong> presents the <strong>50</strong><sup>th</sup>&nbsp;<strong>Annual Book Sale!</strong></span></span></li>
+	<li><span style='font-size:16px'><strong><span style='color:rgb(255, 0, 0)'>Featuring 30,000 BOOKS!!!</span></strong></span>
+	<ul>
+		<li>Sorted into categories for easy shopping</li>
+	</ul>
+	</li>
+	<li><span style='font-size:14px'><strong>HUGE selection of children's books&nbsp;and science fiction</strong></span>
+	<ul>
+		<li><strong>Music cd's &amp; movie dvd's </strong></li>
+		<li><strong>Comics</strong></li>
+		<li><strong>Puzzles</strong></li>
+		<li><strong>Games</strong></li>
+	</ul>
+	</li>
+	<li><span style='color:#FF0000'><strong>August 29</strong><sup>th</sup><strong>&nbsp;thru September 1</strong><sup>st</sup></span>
+	<ul>
+		<li><span style='color:#FF0000'><strong>Thursday 4 pm to 7 pm</strong></span>
+		<ul>
+			<li><span style='color:#FF0000'><strong>Admission Thursday only: $2 donation to the Scholarship Fund</strong></span></li>
+		</ul>
+		</li>
+		<li><span style='color:#FF0000'><strong>Friday, 10 am to 5&nbsp;pm</strong></span></li>
+		<li><span style='color:#FF0000'><strong>Saturday, 10 am to 5 pm</strong></span></li>
+		<li><span style='color:#FF0000'><strong>Sunday, 10 to 4&nbsp;pm</strong></span></li>
+		<li>NO&nbsp;sale Monday</li>
+	</ul>
+	</li>
+	<li><strong>Great prices</strong> range from 50 cents to $2.00 Some individually priced.
+	<ul>
+		<li><strong>Saturday specials throughout the day</strong></li>
+		<li><strong>Buy 2 and get one free on CD's, DVD's, Children's Hardcover books and more.</strong></li>
+		<li><strong>And come back Sunday for a boxful for $7.50</strong></li>
+	</ul>
+	</li>
+	<li>Books have not been picked over and there are no buyer restrictions.&nbsp;</li>
+	<li>Charities, organizations, and other parties interested in books: Contact Debbie Byks at&nbsp;810-796-2153</li>
+</ul>
+"
+"Alliance, OH",Rodman Public Library,"
+Aug 3 - 7<br><ul>
+	<li><span style='font-size:16px'><strong>Friends of Rodman Library Annual Book Sale</strong></span></li>
+	<li><span style='font-size:14px'><span style='color:#FF0000'><strong>50,000+ Items!</strong></span></span></li>
+	<li>Too many to display at once. <span style='color:#FF0000'>Tables are restocked continuously.<span style='font-size:14px'>&nbsp;</span></span></li>
+	<li><span style='font-size:14px'><strong>Hardbacks, Paperbacks, DVDs, CDs, and Magazines</strong></span>
+	<ul>
+		<li>50% donated</li>
+		<li>Sorted, not picked over</li>
+		<li>60% hardcover</li>
+		<li>75% nonfiction, with History, Science, Cooking, Crafts, Travel, Religion, Art, Photography, Business, and much more</li>
+		<li>Children’s books</li>
+	</ul>
+	</li>
+	<li>Raffle baskets $1.00 each or 6 for $5.00</li>
+	<li><strong><span style='color:#FF0000'>This year the book sale will be held at the&nbsp;Alliance Commons</span></strong>
+	<ul>
+		<li><strong><span style='color:#FF0000'>405 S Linden Ave</span></strong></li>
+		<li><strong><span style='color:#FF0000'>Parking will be available at Rodman Public Library&nbsp;</span></strong></li>
+	</ul>
+	</li>
+	<li><strong><span style='color:#FF0000'>Entrance at Linden Avenue side of the building (front door)</span></strong></li>
+	<li><strong><span style='color:#FF0000'>Ramp and elevator available</span></strong></li>
+	<li><strong><span style='color:#FF0000'>Watch for directional signs</span></strong></li>
+	<li><span style='font-size:14px'><strong>Saturday through Wednesday, August 3 - August 7</strong></span>
+	<ul>
+		<li>Saturday, &nbsp;9AM - 5PM (Friends members only - memberships available at the door)</li>
+		<li>Sunday, 1PM - 5PM&nbsp; &nbsp; (Open to the public)</li>
+		<li>Monday, 9AM - 8PM</li>
+		<li>Tuesday, 9AM - 8PM <strong><span style='color:#FF0000'>Special raffle basket ticket with purchase</span></strong></li>
+		<li>Wednesday, 9AM - 8PM&nbsp;&nbsp;<span style='color:#FF0000'><strong>Pay by donation all day</strong></span></li>
+	</ul>
+	</li>
+	<li><span style='color:#FF0000'><strong>Attention: For safety reasons, the Saturday Friends sale has the following restriction: All strollers, large tubs, large bags, shopping carts, tubs on wheels, etc. are not permitted in the book sale area.</strong></span>
+	<ul>
+		<li><span style='color:#FF0000'><strong>On Saturday &amp; Sunday: 'TUB CORRAL' will be provided where large quantities can &nbsp;be counted and priced.</strong></span></li>
+	</ul>
+	</li>
+	<li>Prices:<span style='font-size:16px'> </span> <span style='font-size:16px'> </span>
+	<ul>
+		<li>Hardback: $1.00 each</li>
+		<li>Paperback: 50¢ each</li>
+		<li>Children’s books 25¢ each/5 for $1.00</li>
+		<li>Magazines: 10¢&nbsp;each/12 for $1.00</li>
+		<li>CDs: $1.00 per disc &nbsp;DVDs: $1.00 per disc</li>
+	</ul>
+	</li>
+	<li><span style='font-size:14px'><strong>Large selection of Collectible Books! Collectibles are listed on the Rodman Public Library website.&nbsp;<span style='color:#FF0000'>&nbsp;</span><a href='https://www.rodmanlibrary.com/collectibles' target='_blank'><span style='color:#FF0000'>Click Here to see the 2024&nbsp;Collectibles</span></a></strong></span></li>
+	<li>Books are NOT picked over. NO buyer restrictions.</li>
+	<li>Cash, checks, debt/credit cards (4% processing fee on all cards)</li>
+	<li>The sale takes place during the week of the <a href='http://www.carnationfestival.com/used-book-sale.html' target='_blank'>Carnation Festival</a></li>
+</ul>
+"
+"Wooster, OH",AAUW and Kiwanis Club of Wooster,"
+Sept 24 - 28<br><ul>
+	<li><a href='https://wooster-oh.aauw.net/groups/bookmarkers/' target='_blank'><span style='color:#000000'>Wooster AAUW</span></a><strong><span style='color:#000000'> </span></strong>and <a href='https://woosterkiwanis.org/' target='_blank'><span style='color:#000000'>Wooster Kiwanis</span></a>&nbsp;clubs present our
+
+	<ul>
+		<li><span style='color:#FF0000'><span style='font-size:14px'><strong>67</strong><sup>th</sup><strong>&nbsp;ANNUAL USED BOOK SALE!</strong></span></span></li>
+	</ul>
+	</li>
+	<li>Welcome to one of the largest fall&nbsp; book sales in Ohio with over 45,000&nbsp;books</li>
+	<li><span style='color:#FF0000'><strong>Books are cleaned, sorted and categorized into over sixty categories!</strong></span>
+	<ul>
+		<li>Tables restocked continuously</li>
+		<li>100% of books donated from the community</li>
+		<li>75% Hardcover</li>
+	</ul>
+	</li>
+	<li><span style='color:#FF0000'><strong>ALL NEW SELECTIONS</strong></span> - No holdovers from last sale</li>
+	<li>No&nbsp;Restrictions on Buyer</li>
+	<li><strong>September 24&nbsp;to 28</strong>
+	<ul>
+		<li><span style='color:#FF0000'><strong>Early Bird Sale</strong>&nbsp;(Tuesday, September 24<sup>th</sup> from 4 to 8 pm)</span>
+		<ul>
+			<li><span style='color:#FF0000'>Open to all with $10 admission</span></li>
+		</ul>
+		</li>
+		<li>Wednesday,&nbsp;9 am to 8 pm</li>
+		<li>Thursday, 9 am to 8 pm</li>
+		<li>Friday, 9 am to 8 pm: half price day</li>
+		<li>Saturday, 9 am to 2 pm - $5 per standard-sized bag (provided free)</li>
+	</ul>
+	</li>
+	<li><span style='color:#FF0000'><strong>Great prices typically range from $1.00 to $6.00. Prices for rare and collectible books are typically 75% less than the online price for comparable books.</strong></span>
+	<ul>
+		<li>Free admission (except Tuesday Night Preview) and free parking every day</li>
+		<li>Keep Coming Back: Friday is ½ Price Day and Saturday is $5.00 Bag Day</li>
+		<li>Major Credit Cards Accepted /&nbsp;No taxes are collected</li>
+		<li><strong><span style='color:#FF0000'>Separate Areas contain:</span></strong>
+		<ul>
+			<li>Fiction - 9 Categories</li>
+			<li>Nonfiction - 40+ Categories</li>
+			<li>Rare and Collectible - 3 Categories</li>
+			<li>Children's and Young Adult - 3 Categories</li>
+			<li>Recorded Books, Movie DVDs, Music CDs, and Puzzles - 4 Categories</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li>All book sale proceeds support youth programs and scholarships for women whose education has been interrupted</li>
+	<li><strong><span style='color:#FF0000'>For more information</span></strong>, go to:&nbsp;<strong><a href='https://WoosterKiwanis.org' target='_blank'>WoosterKiwani</a></strong><a href='https://WoosterKiwanis.org' target='_blank'><strong>s.org</strong></a>&nbsp;or we can&nbsp; be contacted at <strong><a href='mailto:WoosterKiwanis@gmail.com'>WoosterKiwanis@gmail.com</a></strong> or 330 439 2039</li>
+</ul>
+"
+"Kennett Square, PA",Unionville HS Gymnasium,"
+Feb 22 - 23,  2025<br><ul>
+	<li><span style='font-size:24px'><span style='color:#FF0000'><strong>Unionville High School Annual Used Book Sale!</strong></span></span></li>
+	<li><strong>Saturday, February 22<sup>nd</sup></strong>
+	<ul>
+		<li><strong>8:00 AM - 4:00 PM</strong></li>
+	</ul>
+	</li>
+	<li><strong>Sunday, February 23</strong><sup>rd&nbsp;</sup>
+	<ul>
+		<li><strong>10:00 AM - 3:00 PM</strong></li>
+		<li><span style='font-size:16px'><span style='color:#FF0000'><strong>$10 bag sale all day Sunday!</strong></span></span></li>
+		<li>Bags are provided! Please do not bring your own bag</li>
+	</ul>
+	</li>
+	<li><span style='font-size:26px'><span style='color:#FF0000'><strong>50,000+ Books for Sale!</strong></span></span></li>
+	<li>All books are 100% donated. Books are not picked over before the sale.
+	<ul>
+		<li>30+ sorted and priced genre categories for fiction and non-fiction excluding collectibles, childrens and classics. Separate tables for New Releases and Large Print</li>
+		<li>Extensive children’s area sorted by age/type of reader including Young Adult</li>
+		<li>Significant collection of rare and out of print books, sorted by genre</li>
+		<li>Large separate sorted paperback selection</li>
+		<li>Hand held scanners are allowed</li>
+		<li>Most books $1.00-$5.00</li>
+		<li>Hardbacks &amp; Trade Paperbacks $2.00 - $3.00. Special items and Collectibles individually priced.</li>
+		<li><strong>CASH&nbsp;or CREDIT CARD accepted: NO CHECKS!</strong></li>
+		<li>Strollers are only permitted if you have a small child.
+		<ul>
+			<li><strong>Small umbrella strolers only - no wagons or pull-behind containers allowed</strong></li>
+		</ul>
+		</li>
+		<li>FREE Admission and free convenient parking</li>
+	</ul>
+	</li>
+	<li><span style='font-size:14px'><span style='color:#FF0000'><strong>Large Volume Dealers are welcome; pre-registration is required.</strong></span></span> <span style='font-size:14px'><strong><a href='http://uhs.ucfsd.org/pto/2' target='_blank'>Book Sale Website</a></strong></span>
+	<ul>
+		<li>We have an special “cage” area specifically assigned to you that will allow you to store your books while you shop. Your purchases will be boxed and priced while you continue to shop. Please indicate your interest in coming by contacting us through our website to help with the check-in process</li>
+	</ul>
+	</li>
+	<li>Our sale funds education enrichment projects at Unionville High School.</li>
+	<li><strong><a href='https://www.facebook.com/UHSBookSale/' target='_blank'>Facebook</a></strong></li>
+</ul>
+"
