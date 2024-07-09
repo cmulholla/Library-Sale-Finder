@@ -24,13 +24,13 @@ If you want an exe of this project, just message me through 20cmulholland@gmail.
 
 2. **Storing and Updating Data**: Scraped data is stored in a CSV file for easy access and manipulation. Users can update this data by triggering the Python script through the Electron interface.
 
-3. **Visualizing Data**: The frontend, built with HTML, CSS, and JavaScript, reads the CSV data and uses Leaflet.js to display each book sale event on an interactive map.
+3. **Visualizing Data**: The frontend, built with HTML, CSS, and JavaScript, reads the CSV data and uses Leaflet.js to display each book sale event on an interactive map. Users can search and filter events by state, as well as add their own data to the map using EasyMDE for Markdown display and conversion to HTML.
 
 4. **Electron Forge**: Facilitates development with hot reloading during development and simplifies the process of packaging the application for distribution.
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript, Leaflet.js
+- **Frontend**: HTML, CSS, JavaScript, Leaflet.js, EasyMDE
 - **Backend**: NodeJS, JSDOM
 - **Desktop Application**: Electron, Electron Forge
 - **Data Storage**: CSV
