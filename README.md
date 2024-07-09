@@ -35,6 +35,12 @@ If you want an exe of this project, just message me through 20cmulholland@gmail.
 - **Desktop Application**: Electron, Electron Forge
 - **Data Storage**: CSV
 
+## Download executable:
+- You can download the program using the link below, or by clicking the "Releases" text on the right panel and downloading the .zip file.
+- [Download Program](https://github.com/cmulholla/Library-Sale-Finder/releases/download/release/library-sale-finder-win32-x64.zip)
+- After downloading this .zip file, right click it and "extract" it. After doing that, find the .exe file in the subfolder, and double click it to run the program. You may need to allow the program to access ports, and after that the program should be running properly.
+- You can make a shortcut to the .exe by right clicking it and selecting "create shortcut", which you can drag to your desktop.
+
 ## Setup and Installation
 
 1. **Clone the Repository**:
