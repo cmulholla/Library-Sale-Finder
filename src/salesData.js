@@ -28,7 +28,7 @@ async function makeLonLatCSV(data, findState) {
     // input data is an array of objects with the following keys: City, State, Country, Library, SaleDetails
     const d3 = await import('d3-dsv');
     try {
-        var csv = 'Latitude,Longitude,Library,SaleDetails\n';
+        var csv = 'Latitude,Longitude,Library,SaleDetails,MajorSale\n';
         for (var i = 0; i < data.length; i++) {
             var row = data[i];
             var city = row.City;
@@ -62,11 +62,20 @@ async function makeLonLatCSV(data, findState) {
             var lon = latLon[0].lon;
             var library = row.Library;
             var saleDetails = row.SaleDetails;
+            var importantSale = 'false';
             // Add some random jitter to the lat and lon to avoid overlapping points
             lat = parseFloat(lat) + (Math.random() - 0.5) * 0.05;
             lon = parseFloat(lon) + (Math.random() - 0.5) * 0.05;
 
-            csv += `${lat},${lon},"${library}","${saleDetails}"\n`;
+            // first, check if row.MajorSale exists, then check if it's true
+            if (row.MajorSale !== undefined && row.MajorSale !== null && row.MajorSale === 'true') {
+                importantSale = 'true';
+            }
+            else {
+                importantSale = 'false';
+            }
+
+            csv += `${lat},${lon},"${library}","${saleDetails}",${importantSale}\n`;
         }
         progressEmitter.emit('progress', `${data.length} finished`);
         return csv;

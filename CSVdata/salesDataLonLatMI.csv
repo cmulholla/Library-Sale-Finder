@@ -1,228 +1,230 @@
-Latitude,Longitude,Library,SaleDetails
-41.9012988125834,-84.04649895771013,"Adrian District Library","
-<img src='./Book Sales in Michigan_files/null.gif' height='1' width='680'><br>
+Latitude,Longitude,Library,SaleDetails,MajorSale
+41.877409855440895,-84.03245727038167,"Adrian District Library","
+<img src='img/null.gif' height='1' width='680'><br>
 Sept<br><ul><li>Sat 11-7, Sun 11-5
 </li><li>70% donated; <b>not 'picked over'</b>; <b>no buyer restrictions</b></li></ul>
-"
-41.91389005065477,-84.03023449412099,"Lenawee District Library","
-<img src='./Book Sales in Michigan_files/null.gif' height='1' width='680'><br>
+",false
+41.920428801727866,-84.0546322062344,"Lenawee District Library","
 July 26 - 27; Aug 23 - 24; Sept 27 - 28; Oct 25 - 26; Nov 22 - 23; Dec 27 - 28<br><ul><li>Fri noon-5:30, Sat 9:30-5:30
 </li><li>150-300 books; 100% donated; 60% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .10 (magazines)-$1</li></ul>
-"
-44.877327153939056,-85.25286451486328,"Alden District Library","
-July 6; Aug 31; Nov 23<br><ul><li>Sat 9-2
+",false
+44.878700376554555,-85.27150117947555,"Alden District Library","
+Aug 31; Nov 23<br><ul><li>Sat 9-2
 </li><li>1,800 books; 75% donated; 70% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; Donation</li></ul>
-"
-42.24143251439621,-83.19122806442276,"Allen Park Public Library","
+",false
+42.26456282257867,-83.23402985100758,"Allen Park Public Library","
 Ongoing<br><ul><li>Library hours
 </li></ul>
-"
-43.4020028773536,-84.6354382387918,"Alma Public Library","
+",false
+43.38960485471653,-84.66156362900735,"Alma Public Library","
 Sept<br><ul><li>Mon, Fri noon-7, Tue-Thu 9:30-7, Sat 11-4
 </li><li><b>not 'picked over'</b>; <b>no buyer restrictions</b></li></ul>
-"
-42.25910509101997,-83.7249066011484,"Ann Arbor District Library","
+",false
+42.302596735548335,-83.73387488719325,"Ann Arbor District Library","
 Bookstore<br><ul><li>Tue-Sun noon-6
 </li><li>Paperbacks .50; hardcovers $2; children's $2; CDs $2, DVDs $3-$5</li></ul>
-"
-42.275141360413414,-83.74647188923424,"Annual Used Book Sale","
+",false
+42.2935186526329,-83.7533448829488,"Annual Used Book Sale","
 Sept 13 - 15<br><br>Watch this spot for more details on the next great sale!
-"
-44.023703730441206,-83.7075552195001,"Au Gres Community Library","
+",false
+44.049199554282,-83.69409871612355,"Au Gres Community Library","
 Ongoing<br><ul><li>Library hours
 </li></ul>
-"
-42.70493241932734,-83.2423441863567,"Auburn Hills Public Library","
+",false
+42.68915740579561,-83.2430291181474,"Auburn Hills Public Library","
 Nov 14 - 16<br><ul><li>Thu 10-7, Fri 10-4:30, Sat 10-4
 </li><li>Preview: Wed 5-7, Friends, join at door
 </li><li>7,000 books; 60% donated; 70% hardcover; <b>no buyer restrictions</b>; .50-$1; Sat bag day</li><li>Some books scanned</li><li>Credit cards accepted</li></ul><br><hr>
 Bookstore<br><ul><li>Library hours
 </li></ul>
-"
-43.89515102543985,-85.8447094409082,"Pathfinder Community Library","
+",false
+43.924481954059175,-85.84169430718379,"Pathfinder Community Library","
 Ongoing<br><ul><li>Library hours
 </li><li>1,000 books; 75% donated; 45% hardcover; sorted; paperbacks .50; hardcovers $1; children's .25; A/V $1</li><li>Reduced prices last week of July. <br>Lake County Trout-a-rama last full weenend of July</li></ul>
-"
-42.32560000880125,-85.19524040110862,"at Riverwalk Centre Tower III","
-July 19<br><ul><li>10-3
+",false
+42.30209401137577,-85.1824051615487,"at Riverwalk Centre Tower III","
+<img src='img/null.gif' height='1' width='680'><br>
+July 19; Aug 21; Sept 18; Oct 18; Nov 20<br><ul><li>10-3
 </li><li>10,000 books; 100% donated; 60% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .50-$2.50</li></ul>
-"
-43.57480064988196,-83.86899642760591,"Friends of Bay County Libraries","
-<img src='./Book Sales in Michigan_files/null.gif' height='1' width='680'><br>
+",false
+43.61851025464555,-83.90859528220392,"Friends of Bay County Libraries","
 Aug 1 - 3<br><ul><li>Thu 8-8, Fri 10-8, Sat 10-5
 </li><li>30,000+ books; <b>no buyer restrictions</b>; .50-$2; Fri half price; Sat half price or $4/box or bag</li></ul>
-"
-42.213934018908674,-83.48452635784679,"Belleville Area District Library","
+",false
+42.22749529603847,-83.47105535439276,"Belleville Area District Library","
 Nov 2<br><ul><li>Sat noon-3, Sun 1-4
 </li><li>Preview: Sat 11-noon, Friends; join at door
 </li><li>1.000+ books; 100% donated; 50% hardcover; sorted; <b>no buyer restrictions</b>; .50-$1; Sun: $4/bag</li><li>Some books removed to sell online</li><li>Credit cards accepted</li></ul><br><hr>
 Ongoing<br><ul><li>Mon-Thu 9:30-9, Fri, Sat 9:30-6, Sun 1-5
 </li></ul>
-"
-44.63210282527807,-86.1221717524973,"Benzonia Public Library","
+",false
+44.618079877260314,-86.10999851301791,"Benzonia Public Library","
 Ongoing<br><ul><li>Mon-Fri 10-6, Sat 10-2
 </li><li>1,000+ books; 95% donated; 90% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; paperbacks $1; hardcovers $2; jigsaw puzzles $2</li><li>Cash or check only</li></ul>
-"
-42.51200981163471,-83.19040036626589,"Berkley Public Library","
+",false
+42.52184949364006,-83.16710640316059,"Berkley Public Library","
 Oct<br><ul><li>Thu 4-8pm, Fri 10-6, Sat 10-3
 </li><li>Preview: Thu 3-4, Friends only
 </li><li>100% donated; sorted; .50-$1</li><li>No scanners</li><li>Volunteers may buy some books (total about 10-20)</li><li>Charities may come on Saturday at 3pm and take boxes of books for free.</li></ul>
-"
-42.49403336404318,-83.20598697480763,"<img src='./Book Sales in Michigan_files/doedit.gif' border='0' align='middle'>","
+",false
+42.52580050063732,-83.17560001112706,"No Name Found","
 July<br><ul><li>Fri, Sat noon-7, Sun noon-3
 </li><li>1,000+ books; 100% donated; 40% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; $1-$20+</li></ul>
-"
-41.93620879327516,-86.32374947236518,"Berrien Springs Community Library","
+",false
+41.9513172158095,-86.3374275929331,"Berrien Springs Community Library","
 Ongoing<br>
-"
-43.711326272379786,-85.48687598368356,"Big Rapids Community Library","
+",false
+43.68601197761733,-85.5046142697356,"Big Rapids Community Library","
 Ongoing<br><ul><li>Fridays at the Farmers Market 8am-2pm
 </li></ul>
-"
-42.56929707868828,-83.22494047870224,"Baldwin Public Library","
+",false
+42.564858768818254,-83.19249297068508,"Baldwin Public Library","
 Nov<br><ul><li>Sat 9:30-4:30, Sun noon-4, Mon 10-2
 </li><li>Preview: Fri 7-9pm, Friends; join at door
 </li><li>'Thousands' of books; 90% donated; 70% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; plus DVDs, CDs, audio books; paperbacks $1; hardcovers $2; children's half price; specials $4; Sun half price, Mon buy bag for $5 and fill</li></ul>
-"
-42.558843500260906,-83.28268028823241,"Bloomfield Township Public Library","
+",false
+42.549965646739025,-83.30070820440618,"Bloomfield Township Public Library","
 July 13; Aug 10; Sept 14; Oct 12; Nov 9; Dec 14<br><ul><li>Sat 11-3
 </li><li>Preview: Sat 10-11, Friends; join at door
 </li><li>10,000 books; 90% donated; 75% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .50-$5</li><li>Credit cards accepted ($15 min)</li></ul><br><hr>
 Bookstore<br><ul><li>Library hours
 </li><li>1,500 books; 100% donated; Books, DVDs, CDs; .50-$5</li><li>Not picked over; no restrictions. New selections added almost every day</li></ul>
-"
-41.96772460251181,-86.57691769902947,"Bridgman Public Library","
+",false
+41.94997052505816,-86.549311155166,"Bridgman Public Library","
+<img src='img/null.gif' height='1' width='680'><br>
 July 12 - 13<br><ul><li>Fri 10-4, Sat 10-2
 </li><li>Preview: Thu 6-8pm, Friends only - you may NOT join at the door
 </li><li>3,200 books; 100% donated; 70% hardcover; sorted; <b>no buyer restrictions</b>; .25-$1; Sat $5/bag</li><li>Valuable books sold online</li><li>Credit cards accepted ($10 min), otherwise cash only</li></ul>
-"
-42.54936568725866,-83.76264509857704,"Brighton District Library","
-<img src='./Book Sales in Michigan_files/null.gif' height='1' width='680'><br>
+",false
+42.55438642310181,-83.78411125470157,"Brighton District Library","
 Oct<br><ul><li>Wed, Thu 10-7, Fri, Sat 10-5, Sun 1-3
 </li><li>Preview: Tue 4-7pm, Friends; join at door. No scanners at preview
 </li><li>20,000+ books; 100% donated; 80% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .50-$1; Sat $5/bag, Sun free</li><li>Credit cards accepted</li></ul><br><hr>
 Ongoing<br><ul><li>Library hours
 </li><li>3,000 books; <b>no buyer restrictions</b>; paperbacks .50; hardcovers $1</li><li>Books change daily</li></ul>
-"
-43.23773041697008,-83.91033951939413,"Taymouth Twp Library","
+",false
+43.257714787011665,-83.88658923550597,"Taymouth Twp Library","
 Aug<br><ul><li>Mon, Thu 2-9, Tue 10-6, Fri 9-4
 </li><li>5,000 books; 50% donated; 75% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .25-$1</li></ul>
-"
-42.817677859277545,-85.70056908386525,"Byron Twp Branch Library","
+",false
+42.796736028313845,-85.70763278210941,"Byron Twp Branch Library","
 July 25 - 27<br><ul><li>Thu noon-8, Fri, Sat 9:30-5
 </li><li>3,000+ books; 70% donated; 40% hardcover; sorted; <b>no buyer restrictions</b>; $1-$2</li><li>Credit cards accepted</li><li>Friends volunteers may shop in advance</li></ul>
-"
-44.233710719364694,-85.38460802104109,"Cadillac Wexford Public Library","
+",false
+44.25556072208029,-85.4244736679267,"Cadillac Wexford Public Library","
 July 18 - 20; Oct 17 - 19<br><ul><li>Thu 9-6, Fri 9-5, Sat 11-1
 </li><li>2,000+ books; 60% donated; 50% hardcover; sorted; <b>no buyer restrictions</b>; $1-$2</li><li>Volunteers can purchase books during setup</li><li>Credit cards accepted</li></ul>
-"
-32.62869271577492,-90.04040360918624,"Canton Public Library","
+",false
+32.61678253902051,-90.0598102130156,"Canton Public Library","
 Bookstore<br><ul><li>Mon, Wed, Sat 10-4, Tue 2-4 (also Tue noon-2, premium members only)
 </li><li>5,000 books; 100% donated; 50% hardcover; sorted; .50-$3; last full week of month: $6/bag (a few exceptions)</li><li>Some books are sold online</li></ul>
-"
-42.043925064371514,-83.40690075085452,"Carleton Branch Library","
+",false
+42.06823121648247,-83.38690576623057,"Carleton Branch Library","
 Ongoing<br><ul><li>Library hours
 </li><li>2,000 books; 100% donated; 45% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; Donation</li></ul>
-"
-43.5031577355575,-83.39085151513096,"Caro Area District Library","
+",false
+43.48710327043345,-83.38983999863416,"Caro Area District Library","
 Nov<br><ul><li>Fri 9-5, Sat 9-3
 </li><li>3,000 books; 25% donated; 75% hardcover; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; $5/bag</li></ul>
-"
-43.6197558203018,-83.18038011969256,"Rawson Memorial Library","
+",false
+43.596062848190265,-83.1984861769927,"Rawson Memorial Library","
 Aug 1 - 3<br><ul><li>Thu 9-5, Fri 9-7:30, Sat 9-3
 </li><li>3,500 books; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .50 - $1; Sat bag/box sale</li><li>Credit cards accepted</li></ul>
-"
-41.90820316279536,-85.99208746186612,"Cass District Library","
+",false
+41.906443252779795,-86.01287730429469,"Cass District Library","
 July 31 - Aug 2<br><ul><li>Wed-Fri 9-5
 </li><li>4,000 books; 10% donated; 90% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; All books 25 cents; Fri $1/bag (bags supplied)</li><li>Prefer CASH ; check from local patrons only</li></ul>
-"
-43.382602013296236,-84.97821856589736,"Heartland Center - Cedar Reader","
+",false
+43.42737313786371,-84.98000633997151,"Heartland Center - Cedar Reader","
+<img src='img/null.gif' height='1' width='680'><br>
 Bookstore<br><ul><li>Mon 10-6, Tue-Fri 10-4
 </li><li>15,000+ books; 50% donated; 50% hardcover; sorted</li><li>Not picked over. No restrictions. Credit cards accepted</li></ul>
-"
-42.480894726280766,-83.0340541960857,"Center Line Library","
-<img src='./Book Sales in Michigan_files/null.gif' height='1' width='680'><br>
+",false
+42.46785297744265,-83.03956411680512,"Center Line Library","
 Bookstore<br><ul><li>Library hours
 </li><li>1,000 books; 80% donated; 90% hardcover; sorted; Donation (honor system)</li><li>Not picked over; no restriction.</li></ul>
-"
-45.32486225415436,-85.26451253347854,"Charlevoix Public Library","
+",false
+45.31342388817994,-85.2812312633746,"Charlevoix Public Library","
 Ongoing<br><ul><li>Mon-Thu 10-8, Fri, Sat 10-5, Sun 1-5
 </li><li>'Thousands' of books; 100% donated; 75% hardcover; sorted; $1-$3</li></ul>
-"
-42.57363756207433,-84.8228868911495,"Charlotte Community Library","
+",false
+42.5815747685345,-84.83812500593999,"Charlotte Community Library","
 Oct<br><ul><li>Thu, Fri 9-7, Sat 10-2
 </li><li>Thousands of books; 100% donated; 65% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; also media; .25-$2</li></ul>
-"
-42.34069235975113,-84.02669107764767,"Chelsea District Library","
+",false
+42.338358872068724,-84.01364926655003,"Chelsea District Library","
 July 13; Aug 10; Sept 14; Oct 12; Nov 9; Dec 14<br><ul><li>Sat 10-1
 </li><li>.25-$1 also $5/grocery-sized bag (bag sale includes books, music and books on CD in the bag)</li><li>Some books removed for online sales</li><li>Credit cards accepted</li></ul><br><hr>
 Ongoing<br><ul><li>Library hours
 </li><li>Priced as marked</li><li>Some books removed for online sales</li></ul>
-"
-42.735890836367254,-83.44041741532189,"Clarkston Independence District Library","
+",false
+42.67190649088705,-82.82101079336174,"Chesterfield Twp. Library","
+July 18 - 19<br><ul><li>10,000 books; 100% donated; 35% hardcover; sorted; <b>no buyer restrictions</b>; #1-$2</li><li>Credit cards accepted</li><li>Thu 4-7, Fri 9:30-3:30</li></ul>
+",false
+42.74301840541089,-83.42965580204418,"Clarkston Independence District Library","
 Sept 25 - 28<br><ul><li>Wed, Thu 10-8:30,  Fri, 10-5:30, Sat 10-2
 </li><li>Preview: Tue 3-7pm, Friends; join at door
 </li><li>10,000 books; 90% donated; 40% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; $1-$2; Sat $5/bag</li><li>Credit cards accepted</li></ul><br><hr>
 Ongoing<br><ul><li>Selling books online for curbside pickup: https://www.cidlibrary.org/readingmarket<br>Books for sale in library as well whenever library is open. https://www.cidlibrary.org/</li></ul>
-"
-42.50880254843865,-83.15801012924032,"Blair Memorial Library","
+",false
+42.53359704265307,-83.1567580074868,"Blair Memorial Library","
 Ongoing<br><ul><li>Mon, Wed: noon-8, Tue, Thu 10-6, Sat 9-5 (closed Wed, Sun)
 </li></ul>
-"
-42.08303031411594,-83.9828638943379,"Clinton Twp Public Library","
-July 6; Aug 3; Nov 2; Dec 7<br><ul><li>Sat 10-2
+",false
+42.09583351221391,-83.95748662827377,"Clinton Twp Public Library","
+Aug 3; Nov 2; Dec 7<br><ul><li>Sat 10-2
 </li><li>10,000 books; 90% donated; 60% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .25-$1</li></ul><br><hr>
 Sept<br><ul><li>Thu-Sat 11-5
 </li><li>10,000 books; 90% donated; 60% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .25-$1</li></ul>
-"
-42.57974847631328,-82.93408272599855,"Clinton-Macomb Public Library","
+",false
+42.586747704659956,-82.92227933387962,"Clinton-Macomb Public Library","
 Oct<br><br>Watch this spot for details on the next HUGE sale!<br><hr>
 Ongoing<br><ul><li>Open during normal library hours
 </li><li>2,000+ books; 100% donated; 50% hardcover; sorted; paperbacks .50; hardcovers $1; A/V $1, puzzles and games as marked. All puzzles and games have been verified</li><li>Pay at donation box outside the ongoing sale room</li><li>Cash and checks only</li><li>Some books removed to sell online</li></ul>
-"
-43.19860859984735,-83.73138744595006,"Clio Area Library","
+",false
+43.1528898258229,-83.7268169941296,"Clio Area Library","
+<img src='img/null.gif' height='1' width='680'><br>
 Oct 5<br><ul><li>Sat 9-4
 </li><li>1,000+ books; 100% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; .25-$1</li><li>There may be a limit for book sellers</li></ul>
-"
-42.19820599362394,-86.30646254733125,"Coloma Public Library","
+",false
+42.19130699103612,-86.33016179224401,"Coloma Public Library","
 Aug 3; Oct<br><ul><li>Sat 9-2
 </li><li>2,500 books; 70% donated; 60% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; most items .75 each or 3/$2</li></ul><br><hr>
 Ongoing<br><ul><li>Library hours (in the lobby)
 </li><li>Paperbacks .10; hardcovers .25</li><li>Bookstore overflow items. Selection varies weekly.</li></ul>
-"
-42.56808400152845,-83.49553672301407,"Commerce Library","
-<img src='./Book Sales in Michigan_files/null.gif' height='1' width='680'><br>
+",false
+42.590734456326224,-83.49997056749552,"Commerce Library","
 Oct<br><ul><li>Wed, Thu 10-8, Fri, Sat 10-4:30, Sun 1-4
 </li><li>15,000 books; 75% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; 50-$1</li></ul>
-"
-43.03353895086383,-85.67326837010104,"Byron Township Library","
+",false
+43.04619536238289,-85.64565964900727,"Byron Township Library","
 July<br><ul><li>Sat 9-5, Mon-Sat during library hours
 </li></ul>
-"
-43.040306782053165,-85.68711800654852,"Comstock Park Branch Library","
+",false
+43.040072094963485,-85.67491621827114,"Comstock Park Branch Library","
 Ongoing<br><ul><li>Library hours
 </li><li>50% donated; 40% hardcover; sorted; .25-.50</li></ul>
-"
-42.99987546828612,-84.10619783587369,"Corunna Library","
+",false
+42.95787145827378,-84.09455632576308,"Corunna Library","
 Bookstore<br><ul><li>Library hours
 </li></ul>
-"
-43.27877514699741,-82.62895139584991,"William H. Aitkin Memorial Library","
+",false
+43.27941594723382,-82.62605473809965,"William H. Aitkin Memorial Library","
 Ongoing<br><ul><li>Library hours
 </li></ul>
-"
-42.76633978998163,-83.52122000648386,"Springfield Twp. Library","
+",false
+42.738280609866514,-83.54932238317863,"Springfield Twp. Library","
 Sept 5 - 7<br><ul><li>Thu 10-8, Fri 10-6, Sat 10-noon
 </li><li>Preview: Wed 5:30-7:30pm, Friends; join at door. No scanners at preview.
 </li><li>5,500 books; 75% donated; 50% hardcover; sorted; .50-$1; Sat bag sale</li><li>Some selections have been listed on line and may have been previewed by a book dealer.</li></ul><br><hr>
 Ongoing<br><ul><li>Library hours
 </li></ul>
-"
-42.30239948457243,-83.17851137501854,"Dearborn Public Library","
-July 10; Aug 14; Sept 11; Oct 9; Nov 13; Dec 11<br><ul><li>Wed 10-6
+",false
+42.32299435394257,-83.15630174461819,"Dearborn Public Library","
+Aug 14; Sept 11; Oct 9; Nov 13; Dec 11<br><ul><li>Wed 10-6
 </li><li>3,000 books; 50% donated; 60% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; plus DVD, music CDS, vinyl, mags, books on CD; Most 90% off original retail price</li></ul>
-"
-42.338020373863486,-83.16300391035074,"at the Dearborn Ice Skating Center (DISC)","
+",false
+42.33778470856855,-83.1975920932155,"at the Dearborn Ice Skating Center (DISC)","
 Oct 4 - 6<br><ul>
 	<li><span style='font-size:14px'><span style='color:#B22222'><big><strong>FALL BOOK &amp; MEDIA SALE</strong></big></span></span></li>
 	<li><span style='font-size:14px'><strong>Thousands of books neatly displayed in 40 categories -&nbsp; and&nbsp;media!</strong></span></li>
@@ -256,12 +258,13 @@ Oct 4 - 6<br><ul>
 	<li><strong>'Like' us on FaceBook</strong><strong>&nbsp;</strong><a href='http://www.facebook.com/AAUW.Dearborn.books'><span style='color:#0000CD'>www.facebook.com/AAUW.Dearborn.books</span></a></li>
 	<li><strong><span style='color:#B22222'><em>PROFITS FROM THE BOOK SALE FUND&nbsp;EDUCATIONAL OUTREACH, AND LEADERSHIP PROGRAMS</em></span></strong></li>
 </ul>
-"
-42.33736177978419,-83.2975054451954,"Caroline Kennedy Library","
+",true
+42.34924655138182,-83.26225169504812,"Caroline Kennedy Library","
+<img src='img/null.gif' height='1' width='680'><br>
 Oct<br><ul><li>Thu 10-8, Fri, Sat 10-4
 </li><li>2,000 books; 75% donated; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .25 &amp; up; Sat $3/plastic bag, $5/paper bags provided</li></ul>
-"
-42.32498985233422,-83.03289764681664,"Festival of Books!","
+",false
+42.31724564929049,-83.0630833698978,"Festival of Books!","
 July 21<br><ul>
 	<li><strong><span style='color:#FF0000'><span style='font-size:18px'>7</span></span></strong><sup><span style='color:#FF0000'><span style='font-size:18px'>th</span></span></sup><strong><span style='color:#FF0000'><span style='font-size:18px'>&nbsp;Detroit Festival of Books!</span>&nbsp;</span></strong><span style='font-size:16px'>(aka: <strong>Detroit Bookfest</strong>)</span></li>
 	<li><span style='font-size:16px'><strong>Sunday, July 21, 2024</strong></span>
@@ -295,11 +298,11 @@ July 21<br><ul>
 	</li>
 	<li><strong>Enjoy FOOD, BEER,&nbsp; </strong>and <strong>DJ <em>Seven Whales</em> bringing the</strong> <strong>FUNK MUSIC! </strong></li>
 	<li><strong><span style='color:#FF0000'><span style='font-size:14px'>KID-FRIENDLY EVENT!</span> </span>Children in attendance may construct their very own book with the assistance of volunteers from 'Arts &amp; Scraps',&nbsp;a Detroit-based nonprofit that helps children repurpose discarded materials into educational and creative projects.</strong></li>
-	<li><strong>We are pleased to announce the participation of <a href='https://detroitbookfest.us3.list-manage.com/track/click?u=095977e3492c8e9a718c9e41d&amp;id=1bf78a65d3&amp;e=4cfe0a2cd8' target='_blank'>Birdie�s Bookmobile</a> at at this year�s festival. Birdie�s Bookmobile is dedicated to eliminating book deserts and making books more accessible to children in Detroit. Birdie�s Bookmobile helps families build print-rich home environments, improve literacy outcomes, and grow lifelong readers. In addition to accepting donations of children�s and young-adult books, the bookmobile will be offering several fun activities for children attending this year�s Bookfest, including:</strong>
+	<li><strong>We are pleased to announce the participation of <a href='https://detroitbookfest.us3.list-manage.com/track/click?u=095977e3492c8e9a718c9e41d&amp;id=1bf78a65d3&amp;e=4cfe0a2cd8' target='_blank'>Birdie’s Bookmobile</a> at at this year’s festival. Birdie’s Bookmobile is dedicated to eliminating book deserts and making books more accessible to children in Detroit. Birdie’s Bookmobile helps families build print-rich home environments, improve literacy outcomes, and grow lifelong readers. In addition to accepting donations of children’s and young-adult books, the bookmobile will be offering several fun activities for children attending this year’s Bookfest, including:</strong>
 	<ul>
 		<li><span style='color:#FF0000'><strong>Create Your Own Comic Strip</strong></span></li>
 		<li><span style='color:#FF0000'><strong>Have Fun with Mad Libs</strong></span></li>
-		<li><span style='color:#FF0000'><strong>�Once Upon a Time�</strong></span> � <span style='color:#FF0000'><strong>children take turns adding one sentence to a story. The story will be available to read on the Bookmobile website after Bookfest.</strong></span></li>
+		<li><span style='color:#FF0000'><strong>“Once Upon a Time”</strong></span> — <span style='color:#FF0000'><strong>children take turns adding one sentence to a story. The story will be available to read on the Bookmobile website after Bookfest.</strong></span></li>
 	</ul>
 	</li>
 	<li><strong>There is no admission fee at Bookfest, nor is there any charge for children to participate in any activities</strong>.
@@ -309,8 +312,8 @@ July 21<br><ul>
 	<ul>
 		<li>Book donations help build home libraries, promote shared reading experiences, and impact generations. Every book counts! Book needs for children from birth to age 18 include:
 		<ul>
-			<li>board books � picture books � early readers</li>
-			<li>chapter books � graphic novels</li>
+			<li>board books • picture books • early readers</li>
+			<li>chapter books • graphic novels</li>
 			<li>middle-grade books</li>
 			<li>young-adult books</li>
 		</ul>
@@ -325,462 +328,480 @@ July 21<br><ul>
 	<li><span style='color:#FF0000'><strong>Come enjoy this&nbsp;glorious day of BOOKS, vinyl records, comics, creative arts, food, beer, funk music and more! What's not to love?!</strong></span></li>
 	<li>Check the <a href='https://detroitbookfest.com/6th-annul-detroit-bookfest-photos-2023/?fbclid=IwAR1g5QPsbGboC1cP_5PguCcvb1XmvfO9z-oRJxNFh7zsH2n5vEubcdFcWVs' target='_blank'>Bookfest photos from last year</a>!</li>
 </ul>
-"
-42.35909302521261,-83.90751894558562,"Dexter District Library","
-<img src='./Book Sales in Michigan_files/null.gif' height='1' width='680'><br>
+",true
+42.32318250048406,-83.87627959945826,"Dexter District Library","
 Aug 9 - 11<br><ul><li>Fri noon-6, Sat 9-3 and 3:30-4:30
 </li></ul><br><hr>
 Oct 5; Nov 2; Dec 7<br><ul><li>Sat 9-3
 </li><li>2,000 books; 95% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .25-$1</li></ul>
-"
-42.65358813254872,-86.22173397265709,"Saugatuck-Douglas Dist. Library","
+",false
+42.63427140848635,-86.18705149284412,"Saugatuck-Douglas Dist. Library","
 Bookstore<br><ul><li>June 1-Labor Day: Wed, Fri, Sat 10-3. Rest of year Sat 10-2. Closed holidays
 </li><li>3,500+ books; 100% donated; 75% hardcover; sorted; $.50-$5</li></ul>
-"
-42.00017457459291,-86.10569868938677,"Dowagiac District Library","
+",false
+41.998377040260905,-86.09997881084871,"Dowagiac District Library","
 July 19 - 22<br><ul><li>Library hours (closed Sun)
 </li><li>3,000 books; 100% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .50-$1</li></ul>
-"
-41.93400738959306,-83.68369726148931,"Dundee Branch Library","
+",false
+41.974504140574275,-83.6801163945891,"Dundee Branch Library","
 Ongoing<br><ul><li>Library hours
 </li><li>100 books; 50% donated; y% hardcover; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .50-$1</li></ul>
-"
-42.96145801881458,-85.6038292385445,"Friends of the Library of East Grand Rapids","
+",false
+42.93399230971138,-85.61731430904766,"Friends of the Library of East Grand Rapids","
 Nov<br><br>Watch this spot for the next great sale!<br><hr>
 Bookstore<br><ul><li>Mon-Thu 9:30-8, Fri 9:30-6, Sat 9:30-5, Sun 1-5 (Closed Memorial Day to Labor Day)
 </li><li>Visit our Ebay store for collectable and antiquarian books:<br>https://www.ebay.com/str/friendsofthelibraryofegr</li><li>Like the Friends of the EGR Library on Facebook.</li></ul>
-"
-45.17125881703448,-85.12022524349366,"Jordan Valley District Library","
+",false
+45.13441500630955,-85.11319374245888,"Jordan Valley District Library","
 Ongoing<br>
-"
-42.75381191042523,-84.48284213239302,"Friends of the East Lansing Public Library","
+",false
+42.73984227075912,-84.49385872261561,"Friends of the East Lansing Public Library","
 Bookstore<br><ul><li>Library hours
 </li><li>6,000+ books; 95% donated; 70% hardcover; sorted; books, CDs, DVDs, sheet music, books on CD; collectible books; Most .50-$2, 'better books' at 1/2 or less than lowest online listings</li><li>Some books removed for Internet sale</li><li>credit cards accepted</li><li>Do not have to have library card to purchase</li></ul>
-"
-42.71744774759777,-84.46037425957174,"Michigan State University Surplus Store","
+",false
+42.74149446937169,-84.48481755891108,"Michigan State University Surplus Store","
 Ongoing<br><ul><li>Mon, Wed, Thu 12-3:30, Tue 7:30-5:30, Fri 7:30-3:30
 </li><li>6,000 books; 50% hardcover; sorted; <b>no buyer restrictions</b>; $1</li><li>Some books removed for internet sale</li><li>Bulk Book Sale - the first full calendar week of the month: Mon-Wed .50 each, Thu, Fri .10 each</li></ul>
-"
-42.46069189216643,-82.958159845346,"Eastpointe Library","
+",false
+42.484404923852466,-82.9722881299165,"Eastpointe Library","
+<img src='img/null.gif' height='1' width='680'><br>
 Nov 15 - 16<br><ul><li>Fri 1:30-4:30, Sat 10-1:30
 </li><li>Preview: Thu 5-7, Friends, join at door, $10
 </li><li>2,500 books; 70% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .25-$1</li><li>Credit cards accepted</li></ul>
-"
-42.47997213359764,-82.94562094798914,"<img src='./Book Sales in Michigan_files/sendemail.gif' border='0' align='middle'>","
+",false
+42.46585242485806,-82.96800584836063,"No Name Found","
 Ongoing<br><ul><li>Every Saturday 10-3
 </li><li>1,000 books; 100% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .50-$1</li><li>Credit cards accepted</li></ul>
-"
-45.75070491640185,-87.04117525964391,"Escanaba Public Library","
-<img src='./Book Sales in Michigan_files/null.gif' height='1' width='680'><br>
+",false
+45.743196505416044,-87.08966585257794,"Escanaba Public Library","
 Ongoing<br>
-"
-42.46920024579833,-83.39231216569476,"Farmington Community Library","
+",false
+42.478905114972676,-83.36850168339508,"Farmington Community Library","
 Oct<br><br>Watch this spot for the next great sale!<br><hr>
 Ongoing<br><ul><li>Library hours
 </li></ul>
-"
-42.484725849551815,-83.3918646923258,"Farmington Branch Library","
+",true
+42.46309790266119,-83.38121111235897,"Farmington Branch Library","
 Ongoing<br><ul><li>Library hours
 </li></ul>
-"
-43.812801493200844,-84.86628828655465,"Surrey Township Public Library","
+",false
+43.83882718005873,-84.8750164243996,"Surrey Township Public Library","
 July 27 - 28<br><ul><li>Sat, Sun 9-5
 </li><li>'Tons' of books; 75% donated; 50% hardcover; <b>no buyer restrictions</b>; partly sorted; Donation</li><li>Re-sellers must check-in with staff.</li></ul><br><hr>
 Ongoing<br><ul><li>Library hours
 </li></ul>
-"
-42.47104969983599,-83.15952219982736,"Friends Book Store","
+",false
+42.44354508705704,-83.13101231050346,"Friends Book Store","
 Bookstore<br><ul><li>Mon-Thu 10-7:45, Sat noon-4:45
 </li><li>1,000 books; 100% donated; 60% hardcover; sorted; .50-$1</li><li>Some books removed; no restrictions.</li></ul>
-"
-43.00320736122194,-83.67178471992146,"Flint Public Library","
+",false
+43.030843346286794,-83.68832439527438,"Flint Public Library","
 July 20<br><ul><li>Sat 10-5
 </li><li>Thousands of books; 70% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .50-$1; 4pm: half-price</li></ul><br><hr>
 Oct<br><ul><li>Thu 2-7, Fri noon-5, Sat 10-5
 </li><li>Preview: Thu 11:30-2, Friends; join at door
 </li><li>Thousands of books; 70% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; Most $1 or less, some at 1/2 assessed value;  Sat $5/bag</li></ul>
-"
-43.35614106346697,-83.75055496170408,"James E. Wickson Memorial Library","
+",false
+43.31353389467954,-83.73936136723935,"James E. Wickson Memorial Library","
 Ongoing<br>
-"
-42.53417549769719,-82.97390180885529,"Fraser Public Library","
+",false
+42.52754787420784,-82.97248901149698,"Fraser Public Library","
 Sept<br><ul><li>Wed 10-5, Thu 1-8
 </li><li>6,000 books; 90% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .50-$2</li></ul>
-"
-43.4663279834017,-85.96204860869479,"Fremont Area District Library","
+",false
+43.44295269989399,-85.94139502619544,"Fremont Area District Library","
+<img src='img/null.gif' height='1' width='680'><br>
 July 18 - 19<br><ul><li>Thu 9-4, Fri 9-3
 </li><li>Preview: Wed 6-8pm, Friends; join at door $10 ind., $15 fam.
 </li><li>2,000 books; 80% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .25-$1</li></ul>
-"
-42.320672179096974,-83.33791920427666,"Garden City Public Library","
+",false
+42.33886481746848,-83.34370908406932,"Garden City Public Library","
 Ongoing<br><ul><li>Library hours
 </li><li>300-500 books</li></ul>
-"
-45.01536555243515,-84.67135236237003,"Otsego County Library","
-<img src='./Book Sales in Michigan_files/null.gif' height='1' width='680'><br>
+",false
+45.016432739322056,-84.66600750490244,"Otsego County Library","
 Aug 8 - 13<br><ul><li>Sun 1-5; Mon, Tue 9-7; Thu, Fri 9-5; Sat 9-1
 </li><li>4,500 books; 100% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .50-$1; Mon $5/bag, Tue $1/bag</li></ul><br><hr>
 Ongoing<br><ul><li>Library hours
 </li></ul>
-"
-45.01474686484295,-84.69396125559511,"<img src='./Book Sales in Michigan_files/sendemail.gif' border='0' align='middle'>","
+",false
+45.00971776394949,-84.66546932667214,"No Name Found","
 Oct<br><ul><li>Fri 9-6, Sat 9-noon
 </li><li>5,000 books; 100% donated; 40% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .25 - $7</li></ul>
-"
-43.98883998121795,-84.47850566674623,"Gladwin County District Library &amp;","
+",false
+43.96190336096921,-84.46672064102535,"Gladwin County District Library &amp;","
 Sept 25 - 28<br><ul><li>Thu, Fri, Sat 9-4:30
 </li><li>Preview: Wed noon-4:30, Friends or $10 admission fee
 </li><li>97% donated; 45% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; Donation</li></ul><br><hr>
 Bookstore<br><ul><li>Library hours
 </li><li>Donation</li><li>Books also available for sale daily in 2 special areas of library</li></ul>
-"
-42.938579400926145,-83.50601529783114,"Goodrich Library","
+",false
+42.932175896820894,-83.51407131721535,"Goodrich Library","
 Sept<br><ul><li>Fri 10-5, Sat 9-5
 </li><li><b>not 'picked over'</b>; <b>no buyer restrictions</b>; Sat 2pm: Bag sale</li></ul>
-"
-43.25528775914081,-85.27728657801762,"Spencer Library","
+",false
+43.25185443008844,-85.29959350142613,"Spencer Library","
 Oct<br><ul><li>Sat 9-3, Sun 11-2
 </li><li>2,000 books; 100% donated; 25% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; $1-$2; Sun $5/bag</li><li>Cash only</li></ul>
-"
-43.0737467611471,-86.24838091328556,"Loutit Library","
+",false
+43.0831501631217,-86.2400115934644,"Loutit Library","
 Bookstore<br><ul><li>Mon 7-8:30 p.m., Thu 3:30-5, Sat 11-2
 </li></ul>
-"
-42.9554596829068,-85.65132800642408,"Cascade Library","
+",false
+42.96199257185985,-85.66087270063888,"Cascade Library","
 Bookstore<br><ul><li>Library hours
 </li></ul>
-"
-42.94773923494476,-85.68552035887505,"Gaines Township Library","
+",false
+42.97902142924212,-85.67990598020697,"Gaines Township Library","
 Ongoing<br>
-"
-42.95066515800506,-85.66518395242883,"Plainfield Library","
+",false
+42.940198209433504,-85.68660449791815,"Plainfield Library","
+<img src='img/null.gif' height='1' width='680'><br>
 Ongoing<br><ul><li>Mon, Wed, Fri 10-1, Tue, Thu 3-7pm
 </li><li>15,000 books; 90% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; $8/bag (bags supplied</li><li>Credit cards accepted</li></ul>
-"
-42.98442891953813,-85.68448462364351,"Grand Rapids Public Library","
+",false
+42.9589817945915,-85.64527342536599,"Grand Rapids Public Library","
 Oct<br><ul><li>Sat 9-4, Sun 1-4
 </li><li>5,000 books; 50% donated; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .50, 3/$1</li><li>Credit cards accepted</li></ul><br><hr>
 Bookstore<br><ul><li>Mon-Thu 9-9, Fri, Sat 9-6, Sun 1-5
 </li><li>800 books; 20% donated; 80% hardcover; .50-$1</li><li>No restrictions. Credit cards accepted.</li></ul>
-"
-42.89592735277696,-85.74837017799031,"Grandville Public Library","
-<img src='./Book Sales in Michigan_files/null.gif' height='1' width='680'><br>
+",false
+42.89450538075335,-85.77494728320647,"Grandville Public Library","
 Bookstore<br><ul><li>Mon-Thu 9:30-8, Fri 9:30-6, Sat 9:30-5
-</li><li>2,000 books; 75% donated; 50% hardcover; sorted</li><li>Not picked over, no restrictions. Checks for amounts under $50. (bank located next door)</li><li>Monthly mini-book sales covering special topics; check <a href='http://friendsofthegrandvillelibrary.com/' target='_blank'>website/a&gt;</a></li></ul><a href='http://friendsofthegrandvillelibrary.com/' target='_blank'>
-</a>"
-43.16363183995291,-85.24237980048176,"Flat River Community Library","
+</li><li>2,000 books; 75% donated; 50% hardcover; sorted</li><li>Not picked over, no restrictions. Checks for amounts under $50. (bank located next door)</li><li>Monthly mini-book sales covering special topics; check <a href='http://friendsofthegrandvillelibrary.com' target='_blank'>website/a&gt;</a></li></ul><a href='http://friendsofthegrandvillelibrary.com' target='_blank'>
+</a>",false
+43.159388809024456,-85.23442462206222,"Flat River Community Library","
 Aug 16 - 17<br><ul><li>Fri, Sat 9-5
 </li><li>4,000 books; 80% donated; 75% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .25-$4</li><li>Credit cards accepted</li></ul><br><hr>
 Bookstore<br><ul><li>Library hours
 </li></ul>
-"
-42.402624446406655,-82.93620019233651,"<img src='./Book Sales in Michigan_files/doedit.gif' border='0' align='middle'>","
+",false
+42.37030591585098,-82.95474362436944,"No Name Found","
 Sept<br><br>Watch this spot for details on the next great book sale!
-"
-42.42874345448351,-82.9055950516107,"Grosse Pointe Woods Branch Library","
+",false
+42.438943754864056,-82.89962621306118,"Grosse Pointe Woods Branch Library","
 Bookstore<br><ul><li>Tue, Wed 6-8pm, Thu 10-noon, Sat 10-4
 </li><li>10,000 books; 100% donated; 50% hardcover; sorted; paperbacks .50-$1; hardcovers $1; videos $1, DVDs $2</li></ul>
-"
-44.36971728651493,-83.80098935667652,"Plainfield Library","
+",false
+44.373455765822385,-83.79371665904777,"Plainfield Library","
 Aug<br><ul><li>Wed 9-6, Thu, Fri 9-4, Sat 9-1
 </li><li>5,000 books; 100% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; Donation</li><li>No scanners allowed</li></ul>
-"
-42.460280113694864,-83.79325728021132,"Hamburg Township Library","
+",false
+42.45775855113977,-83.81154259733786,"Hamburg Township Library","
 Ongoing<br><ul><li>Library hours
 </li><li><b>not 'picked over'</b>; <b>no buyer restrictions</b>; paperbacks .25; hardcovers $1; A/V $1</li></ul>
-"
-42.41420887247257,-82.90699977472242,"Harper Woods Public Library","
+",false
+42.437044171151506,-82.90623113922796,"Harper Woods Public Library","
 Sept<br><ul><li>Fri, Sat 1-4
 </li><li>2,000+ books; 100% donated; 45% hardcover; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; partly sorted; .25-$5</li></ul>
-"
-44.66698605931867,-83.27917380555782,"Alcona County Library","
-Aug; Oct<br><ul><li>Thu, Fri 9:30-5, Sat 10-1
+",false
+44.63430627371574,-83.30728007042092,"Alcona County Library","
+<img src='img/null.gif' height='1' width='680'><br>
+Aug 1 - 3; Oct 10 - 12<br><ul><li>Thu, Fri 9:30-5, Sat 10-1
 </li><li>1,500 books; 100% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; Donation</li></ul>
-"
-42.64945640739727,-83.74925750823378,"Cromaine Library","
-Sept<br><ul><li>Thu-Sat 10-4, Sun noon-1
+",false
+42.661917584103946,-83.7665081557874,"Cromaine Library","
+Sept 19 - 22<br><ul><li>Thu-Sat 10-4, Sun noon-1
 </li><li>10,000 books; 100% donated; 60% hardcover; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; $1; Sat $5/brown bag. Sun is free day. (Bring lots of boxes &amp; bags)</li></ul><br><hr>
 Ongoing<br><ul><li>Library hours
 </li><li>$1</li></ul>
-"
-42.768822519014655,-84.42082996437006,"Haslett Library","
-<img src='./Book Sales in Michigan_files/null.gif' height='1' width='680'><br>
+",false
+42.728370761626266,-84.41343096041388,"Haslett Library","
 Oct<br><ul><li>Sat 9-3
 </li><li>Preview: Fri 5-7pm, Friends; join at door
 </li><li>100% donated; sorted; .50-$1</li><li>Some books removed to sell online</li><li>Scanners prohibited</li></ul><br><hr>
 Bookstore<br><ul><li>Mon-Wed, Fri noon-4, Thu noon-6, Sat noon-2
 </li><li>5,000 books; 100% donated; 30% hardcover; sorted; paperbacks $1-$1.50; hardcovers $2; children's paperbacks .50, hardcover $1</li><li>A small number of books removed to sell online. No scanning devices allowed</li></ul>
-"
-42.46221268596554,-83.10379505986691,"Hazel Park District Library","
+",false
+42.461256089251755,-83.08910935114935,"Hazel Park District Library","
 Sept<br><ul><li>Tue-Thu noon-8, Fri 10-6, Sat noon-4
 </li><li>9,000 books; 90% donated; 80% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .25-$2</li><li>Cash only</li></ul>
-"
-43.41965792616663,-84.24552877828772,"Rauchholz Memorial Library","
+",false
+43.423903718180696,-84.24010013459382,"Rauchholz Memorial Library","
 Sept<br><ul><li>Sat 9-2
 </li><li>1,000 books; 20% donated; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .50-$2</li></ul>
-"
-44.15940119391705,-85.26002396847255,"Highland Township Public Library","
+",false
+44.14781024814624,-85.25670084768217,"Highland Township Public Library","
 July 20; Aug 17; Sept 21; Nov 16; Dec 21<br><ul><li>Sat 10-2
 </li><li>'Thousands' of books; 100% donated; 50% hardcover; sorted; <b>no buyer restrictions</b>; .50-$1.50</li><li>Some vintage/collectible books removed from sale, (available at the BIG book sales in spring and fall)</li></ul><br><hr>
 Ongoing<br><ul><li>Library hours
 </li><li>Book cart</li></ul>
-"
-44.13538187391501,-85.2868154534164,"Highland Township Public Library","
+",false
+44.154552470524,-85.28649675311047,"Highland Township Public Library","
 Oct<br><br>Watch this spot for the next great sale!
-"
-42.799660761336064,-86.1271037366224,"Herrick Disrict. Library","
+",false
+42.77864207725398,-86.11228634954574,"Herrick Disrict. Library","
 Bookstore<br>
-"
-42.771512644346956,-83.62308772569276,"Holly Library","
+",false
+42.7757967984983,-83.6173390689784,"Holly Library","
 Ongoing<br><ul><li>Mon-Thu 8:30-8, Fri 8:30-5, Sat 9:30-3
 </li><li>1,000 books; 100% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .25-$1; sets, encyclopedias more</li></ul>
-"
-42.59088291674697,-83.92096236426958,"Howell Carnegie District Library","
+",false
+42.62494001886354,-83.94285480300674,"Howell Carnegie District Library","
 Oct 5; Oct 19; Nov 2; Nov 16; Dec 7; Dec 21<br><ul><li>Sat 9:30-3:30
 </li><li>3,000 books; 100% donated; 50% hardcover; sorted; <b>no buyer restrictions</b>; .25-$1</li><li>A few books may have been removed to send to a book dealer</li></ul><br><hr>
 Ongoing<br><ul><li>Library hours
 </li><li>Limited number of paperbacks</li></ul>
-"
-42.86057202486869,-85.86461155098755,"Gary Byker Memorial Library","
+",false
+42.8494521296141,-85.85328763889919,"Gary Byker Memorial Library","
+<img src='img/null.gif' height='1' width='680'><br>
 Ongoing<br><ul><li>Library hours
 </li></ul>
-"
-43.040517645761014,-83.05857033760813,"Ruth Hughes Memorial District Library","
+",false
+43.04591947266258,-83.09834766071076,"Ruth Hughes Memorial District Library","
 Nov<br><ul><li>Fri, 10-5, Sat 10-3
 </li><li>2,500 books; 75% donated; 60% hardcover; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; some sorting; Donation - no set price.  (small book cart upstairs is priced)</li><li>Basement is handicapped accessible.</li></ul>
-"
-45.43645981977025,-84.5905582547181,"Indian River Area Library","
-<img src='./Book Sales in Michigan_files/null.gif' height='1' width='680'><br>
+",false
+45.390565448365884,-84.59016755811457,"Indian River Area Library","
 Ongoing<br><ul><li>Every Tuesday, 10-3; every Friday 3-5:30
 </li><li>Donation</li></ul>
-"
-42.31794818877018,-83.29227446946182,"Inkster Public Library","
+",false
+42.27020766982784,-83.29506278423744,"Inkster Public Library","
 Ongoing<br><ul><li>Library hours
 </li></ul>
-"
-44.6253182654824,-85.76565777309466,"Interlochen Public Library","
+",false
+44.63054835670186,-85.74876841635385,"Interlochen Public Library","
 Ongoing<br><ul><li>Library hours
 </li><li>1000+ books</li></ul>
-"
-42.92366929507096,-85.79438989560298,"Georgetown Township Public Library","
+",false
+42.908859454678904,-85.80265288778284,"Georgetown Township Public Library","
 July<br><ul><li>Thu 3-8:45, Fri 9-4:45, Sat 9-noon
 </li><li>50% donated; 75% hardcover; sorted; <b>not 'picked over'</b>; plus DVDs, CDs, software; paperbacks .50; hardcovers $1; children's .50; mags, Harlequins, R.D. condensed .10; puzzles, misc. $1</li></ul><br><hr>
 Oct<br><ul><li>Fri 9-5:30, Sat 9
 </li><li>50% donated; 75% hardcover; sorted; <b>not 'picked over'</b>; plus videos, software, puzzles; children's .50; Sat prices reduced</li></ul><br><hr>
 Ongoing<br><ul><li>Library hours
 </li></ul>
-"
-42.281033375325364,-85.60590029675895,"Friends of the Kalamazoo Public Library","
+",false
+42.286693877760484,-85.56443000303217,"Friends of the Kalamazoo Public Library","
 Sept 14; Jan 24,  2025<br><ul><li>Sat 10-3:30
 </li><li>$3/grocery size bag</li></ul><br><hr>
 Bookstore<br><ul><li>Wed noon-6, Thu-Sat 10-4
 </li><li>Thousands of books; Most .50-$3</li></ul>
-"
-42.847150620470224,-85.6239444027162,"Kentwood Branch Library","
+",false
+42.85590249125232,-85.63733019543491,"Kentwood Branch Library","
 Oct<br><ul><li>Sat 9:30-3:30
 </li><li>1,000 books; 30% donated; 80% hardcover; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .50-$1</li></ul>
-"
-42.765297882264235,-83.26288472532477,"Orion Township Library","
+",false
+42.80697078820237,-83.22558642370733,"Orion Township Library","
 Sept 23 - 27<br><ul><li>Tue 4:30-10, Wed, Thu 10-8:30, Fri 10-4:30, Sat 9:30-1:30
 </li><li>Preview: Mon 5:30-8:30, Teachers with ID only; Tue 10-4:30 Friends (join at door)
 </li><li>Thousands of books; sorted; <b>no buyer restrictions</b>; $1-$2; Fri half price, Sat $5/bag provided</li><li>Some books removed to sell in bookstore</li><li>Credit cards accepted</li></ul><br><hr>
 Bookstore<br><ul><li>Library hours
 </li></ul>
-"
-42.75796938004587,-84.56698249813566,"Lansing Library and Information Center","
+",false
+42.710627409028994,-84.53341602630596,"Lansing Library and Information Center","
 Bookstore<br><ul><li>Thu 11-2 &amp; 4-7, Fri 11-2, Sat 11-4
 </li><li>35,000 books; 50% donated; 50% hardcover; sorted; .50-$5</li></ul>
-"
-42.717266832279954,-84.56290165122489,"Friends of Delta Township District Library","
+",false
+42.713560015263695,-84.56857336924534,"Friends of Delta Township District Library","
+<img src='img/null.gif' height='1' width='680'><br>
 Aug 16 - 17<br><ul><li>Fri 10:30-5:30, Sat 10:30-1
 </li><li>Preview: Thu 4-7:30, Friends; join at door
-</li><li>5,000 books; 100% donated; 50% hardcover; sorted; Less that $1.50</li><li>Some books sold online</li><li>Book Sellers, please supply your tax number.</li></ul><br><hr>
+</li><li>5,000 books; 100% donated; 50% hardcover; sorted; Less that $1.50; Sat $5/bag supplied</li><li>Some books sold online</li><li>Book Sellers, please supply your tax number.</li></ul><br><hr>
 Bookstore<br><ul><li>Mon-Thu 10:30-7:30, Fri 10:30-5:30, Sat 10:30-3:30
 </li><li>10,000+ books; sorted; .25 &amp; up</li><li>Books are not picked over</li></ul>
-"
-42.754296814057795,-84.55090314719911,"Causeway Bay Hotel and Conference Center","
+",false
+42.70960152922624,-84.55407521344598,"Causeway Bay Hotel and Conference Center","
 Oct<br><br>Watch this space for tne next MI Book &amp; Paper Fair
-"
-42.73881010454342,-84.54586220597272,"Dewitt Library","
-<img src='./Book Sales in Michigan_files/null.gif' height='1' width='680'><br>
+",false
+42.726502347076696,-84.57998314641713,"Dewitt Library","
 Ongoing<br><ul><li>Library hours
 </li><li>100% donated; 50% hardcover; sorted; books, videos, cassettes; .50 &amp; up</li></ul>
-"
-43.05857866233529,-83.33991844438455,"DeAngeli Library","
+",false
+43.062129319225946,-83.33560208688793,"DeAngeli Library","
 Ongoing<br><ul><li>Library hours
 </li><li>.25-$3</li></ul>
-"
-42.20556754790127,-86.0760848701931,"Friends of Lawrence Library","
+",false
+42.23223636963597,-86.04589908567435,"Friends of Lawrence Library","
 Sept 1 - 2<br><ul><li>Sat 10-4, Sun noon-5pm, Mon 10-3
 </li><li>'Thousands' of books; 90% donated; 60% hardcover; sorted; <b>not 'picked over'</b>; plus CDs, DVDs, VHS, audio books, mags; .50-$1</li><li>Lawrence Labor day Ox-Roast and Homecoming</li></ul>
-"
-42.1449843301376,-85.85851685369104,"Lawton Public Library","
+",false
+42.166637844770484,-85.83245445523475,"Lawton Public Library","
 Ongoing<br>
-"
-42.45784114135061,-84.4204020353692,"Friends of Leslie Library","
+",false
+42.4758679305696,-84.42499512026656,"Friends of Leslie Library","
 Ongoing<br><ul><li>Library hours
 </li><li>10 shelves of books; also media; paperbacks .50; hardcovers $1; children's .50</li></ul>
-"
-42.22576670107593,-83.1971869142518,"Lincoln Park Public Library","
+",false
+42.46172651782551,-84.42279569016556,"Leslie Library","
+Aug 8 - 9<br><ul><li>Thu, Fri 9-5
+</li><li>1,000 books; 100% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; Donation</li></ul>
+",false
+42.227206182832994,-83.17341756163678,"Lincoln Park Public Library","
 Oct<br><ul><li>Sat noon-5; Mon-Thu noon-8
 </li><li>Preview: Thu prior 5-8pm, Friends; join at door
 </li><li>10,000 books; 75% donated; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .25-$1; final Sat $2/bag</li></ul>
-"
-42.38872507430156,-83.33609167400733,"Civic Center Library","
+",false
+42.366813215583704,-83.35999759138117,"Civic Center Library","
 Oct 4 - 6; Feb 7 - 9,  2025<br><ul><li>Fri, Sat 9-5, Sun 1-5
 </li><li>Preview: Thu 4:30-6:30 teachers &amp; members; join at door
 </li><li><b>no buyer restrictions</b>; paperbacks .50; hardcovers $1; Sun $5/bag</li><li>Some books removed prior to the preview</li><li>Credit cards accepted, $10 minimum</li></ul><br><hr>
 Bookstore<br><ul><li>Mon, Thu, Fri, Sat 10-3, Tue, Wed 11-7
 </li></ul>
-"
-43.9368834349178,-86.4562569124984,"Mason Cty District Library - Ludington Branch","
+",false
+43.943476729434394,-86.44496829369884,"Mason Cty District Library - Ludington Branch","
+<img src='img/null.gif' height='1' width='680'><br>
 July<br><ul><li>Fri 6-9pm, Sat 9-5, Sun 10-4
 </li><li>20,000 books; 75% donated; 33% hardcover; sorted; .25-$5</li><li>Volunteers who work to set up the sale are allowed to choose books before the sale opens</li></ul>
-"
-46.52310450379916,-87.41937121998255,"Peter White Public Library","
+",false
+46.56130598908783,-87.38095159591832,"Peter White Public Library","
 Sept<br><ul><li>Fri 9:30-5, Sat 9:30-1:30, then 1:45-4
 </li><li>Preview: Thu 5-8pm, $5 fee
 </li><li>3,000 books; 100% donated; sorted; <b>no buyer restrictions</b>; .50-$3, Sat 9:30-1:30 half price; 1:45: $5/bag</li><li>Some books removed to sell online</li><li>Credit cards accepted</li></ul>
-"
-42.58405089092842,-84.4374093048732,"Mason Library","
+",false
+42.60372686927976,-84.4467284234646,"Mason Library","
 Sept 21<br><ul><li>Sat 9-3
 </li><li>5,000 books; 98% donated; 45% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; Donation</li><li>Checks for locals only, all others cash</li><li>Down Home Days, Farm Market, crafts, garage sales</li></ul><br><hr>
 Bookstore<br><ul><li>During normal library hours
 </li></ul>
-"
-42.282186825960466,-83.1986381281362,"Melvindale Public Library","
-<img src='./Book Sales in Michigan_files/null.gif' height='1' width='680'><br>
+",false
+42.290709216003236,-83.18023714480887,"Melvindale Public Library","
 Ongoing<br><ul><li>MonThu noon-8, Sat noon-5 (closed Fri, Sun)
 </li><li><b>not 'picked over'</b>; <b>no buyer restrictions</b>; .25-$1</li></ul>
-"
-43.611469708654425,-84.24841567146896,"Grace Dow Memorial Library","
+",false
+43.623792803771686,-84.22601779555396,"Grace Dow Memorial Library","
 Oct<br><ul><li>Sat 10-4, Sun 1-4
 </li><li>Preview: Fri 5:30-8:30, Friends; join at door
 </li><li>35,000 books; 100% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .50-$2; Sun $5/bag</li></ul><br><hr>
 Ongoing<br><ul><li>Library hours
 </li><li>5,000 books</li><li>Restocked weekly</li></ul>
-"
-43.595906309580904,-84.25639394336532,"<img src='./Book Sales in Michigan_files/sendemail.gif' border='0' align='middle'>","
-Sept<br><br>Watch this spot for the next great sale!
-"
-42.075619852773976,-83.70557633085835,"Friends of Milan Public Library","
+",false
+43.62764121094058,-84.23682905432764,"Fall Book Sale!","
+Sept 27 - 29<br><ul>
+	<li><span style='color:#FFFFFF'><span style='font-size:14px'><strong><span style='background-color:#006400'>&nbsp;FALL BOOK SALE!&nbsp;</span></strong></span></span><span style='color:#006400'><span style='font-size:14px'><strong> Presented by The Midland Branch AAUW</strong></span></span></li>
+	<li><span style='color:#006400'><span style='font-size:14px'><strong>FEATURING 10,000 BOOKS!</strong></span></span>
+	<ul>
+		<li>All Donated. 50% Hardcover</li>
+		<li>Sorted into categories for easy shopping!</li>
+	</ul>
+	</li>
+	<li><strong>September 27, 28, 29&nbsp;2024</strong>
+	<ul>
+		<li><strong>Friday, 9 am to 8 pm</strong></li>
+		<li><strong>Saturday, 9 am to 8 pm</strong></li>
+		<li><strong>Sunday, 10 am to 3:30 pm</strong></li>
+	</ul>
+	</li>
+	<li><span style='color:#006400'><strong>Great Prices</strong></span>
+	<ul>
+		<li><strong>Most hardcover and trade copies $2, paperbacks $1</strong></li>
+		<li><strong>Newer&nbsp;books up to $7</strong></li>
+		<li><strong>Bag Sale: Sunday $10 per grocery bag!</strong></li>
+	</ul>
+	</li>
+	<li><span style='color:#B22222'><strong>Stock up now for winter reads and school book reports!</strong></span></li>
+</ul>
+",true
+42.093826666947315,-83.69175440566453,"Friends of Milan Public Library","
 Ongoing<br><ul><li>Library hours
 </li><li>.50-$1</li></ul>
-"
-43.26705104874032,-83.54939261829664,"Millington Arbela District Library","
+",false
+43.2895017159301,-83.55342134479659,"Millington Arbela District Library","
 Aug<br><ul><li>Thu 9-8, Fri 9-4, Sat 9-noon
 </li><li>400 books; 100% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .50- $1</li><li>Millington Old-Fashioned Days</li></ul>
-"
-41.91931941382422,-83.38226204908162,"Dorsch Memorial Branch Library","
+",false
+41.93794111266453,-83.37243464525872,"Dorsch Memorial Branch Library","
 Ongoing<br><ul><li>Mon-Sat 10-4
 </li><li>100 books; 100% donated; 75% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; $1-$5</li></ul>
-"
-41.90046180183643,-83.37524365683396,"Frenchtown-Dixie Library","
+",false
+41.895491178527806,-83.40988992777808,"Frenchtown-Dixie Library","
 Ongoing<br><ul><li>Library hours
 </li><li>1,50+ books; 90% donated; 40% hardcover; sorted; <b>not 'picked over'</b>; 5 cents and up</li></ul>
-"
-43.20033340587789,-83.88223670465564,"<img src='./Book Sales in Michigan_files/sendemail.gif' border='0' align='middle'>","
+",false
+43.16566724437777,-83.89801858120063,"No Name Found","
+<img src='img/null.gif' height='1' width='680'><br>
 Aug 16 - 17<br><ul><li>Fri, Sat 9-5
 </li><li>6,500 books; 100% donated; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .50-$1</li><li>Blueberry Festival</li><li>NO SCANNERS ON FRIDAY</li></ul>
-"
-43.1683685933774,-83.908116069512,"Jennings Memorial Library","
-Aug<br><ul><li>Wed 10-6, Thu noon-8 (closed Fri) Sat 9-5
-</li><li>1,000 books; 100% donated; 90% hardcover; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .50-$1</li></ul>
-"
-43.60501232201907,-84.75869124991154,"Veterans Memorial Library Annex","
+",false
+43.57520361850692,-84.7809724786366,"Veterans Memorial Library Annex","
 Oct<br><ul><li>Thu 10-6:30, Fri 10-5, Sat 10-2
 </li><li>Preview: Wed 10-5:30, Friends, join at door
 </li><li>10,000 books; 80% donated; 60% hardcover; sorted; <b>no buyer restrictions</b>; .50-$2; Sat $3/bag</li><li>Some books (typically under 50) removed to sell online</li><li>Credit cards accepted</li></ul>
-"
-43.134222111168334,-83.71400778471633,"Mt. Morris Library","
-<img src='./Book Sales in Michigan_files/null.gif' height='1' width='680'><br>
+",false
+43.13781048412134,-83.70882640982835,"Mt. Morris Library","
 Ongoing<br><ul><li>Library hours: Mon 10-6, Tue, Wed noon-8, Fri, Sat 9-5 (closed Thu, Sun)
 </li><li>Paperbacks .25; hardcovers .50; children's .25</li></ul>
-"
-43.25546887381022,-86.24712838344058,"Library for the Visually &amp; Physically Disabled of MADL","
+",false
+43.25806098973695,-86.26818792998678,"Library for the Visually &amp; Physically Disabled of MADL","
 Oct 23 - 26<br><ul><li>Wed 11-7; Thu, Fri 9-5; Sat 10-2
 </li><li>2,000 books; 40% hardcover; sorted; <b>no buyer restrictions</b>; $1 or less</li><li>Some books removed for library use</li></ul>
-"
-46.51202652608852,-87.587696034059,"Friends of Negaunee Public Library","
-July 11<br><ul><li>Thu 9-3
-</li><li>2,000 books; 50% donated; 35% hardcover; sorted; Donation</li></ul>
-"
-46.51302882786237,-87.61932875757608,"Negaunee Public Library","
+",false
+46.51804615617214,-87.60018125502596,"Negaunee Public Library","
 July<br><ul><li>Thu 10-3
 </li><li>Pioneer Days</li></ul>
-"
-42.02571861410292,-83.32726364438898,"Newport Branch Library","
+",false
+42.02400493469864,-83.32236103763597,"Newport Branch Library","
 Ongoing<br><ul><li>Mon-Fri noon-4
 </li><li>100% donated; 75% hardcover; <b>not 'picked over'</b>; <b>no buyer restrictions</b></li><li>Donation</li></ul>
-"
-41.84007018783026,-86.25604549569674,"Niles District Library","
+",false
+41.81179911195711,-86.2428946263859,"Niles District Library","
 Ongoing<br><ul><li>Library hours
 </li><li>Book cart next to Circulation Desk</li></ul>
-"
-43.268766543206176,-86.25350816063656,"Walker Memorial Library","
+",false
+43.266030321349774,-86.25553018102165,"Walker Memorial Library","
 Aug 10<br><ul><li>Sat 9-3
 </li><li>1,000 books; 100% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; $2</li><li>Credit cards accepted</li></ul>
-"
-42.433825371888325,-83.49310571056893,"Northville District Library","
+",false
+42.44139862002384,-83.48743690729474,"Northville District Library","
 Bookstore<br><ul><li>Mon, Wed 11-5 &amp; 6:30-8:30pm; Thu 11-5, Fri 11-4:45, Sat 11-2 (closed Tue, Sun). HIGHLY subject to change. The Book Cellar is volunteer staffed, and if no one is available to staff, the Book Cellar is closed.
 </li><li>4,500 books; 100% donated; 50% hardcover; sorted; paperbacks .50; hardcovers $1</li><li>Resellers showing a Michigan Sales Tax License who spend at least $10 in Book Cellar will receive a 10% discount.</li></ul>
-"
-43.17159044342639,-86.24006295257907,"Norton Shores Library","
+",false
+43.14468474916288,-86.23943983160608,"Norton Shores Library","
 Oct 4 - 5<br><ul><li>Fri 9-5, Sat 9-2:30
 </li><li>Preview: Thu 3-4, Friends, join at door, $10 ind., 62+ or student $5, fam. $25
 </li><li>10,000 books; 100% donated; 75% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; plus CDs, DVDs; Donation</li><li>Credit cards accepted</li></ul>
-"
-42.43649096124002,-83.19608319647563,"Oak Park Library","
+",false
+42.46981358639637,-83.20128133805973,"Oak Park Library","
+<img src='img/null.gif' height='1' width='680'><br>
 July 10 - 14; Aug; Sept; Oct; Nov; Dec<br><ul><li>Wed, Thu 10-8, Fri 10-5, Sun 1-5
 </li><li>1,500 books; 70% donated; 70% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .50-$1; Sun $3/bag</li><li>Credit cards accepted</li></ul>
-"
-42.70372284730059,-84.4150710585624,"Friends of Okemos Library","
-<img src='./Book Sales in Michigan_files/null.gif' height='1' width='680'><br>
-Sept 7 - 8; Dec 7 - 8<br><ul><li>Sat, Sun 9-5
+",false
+42.730904865787004,-84.44369317341494,"Friends of Okemos Library","
+July 27 - 28; Sept 7 - 8; Dec 7 - 8<br><ul><li>Sat, Sun 9-7
 </li><li>Preview: Sat 8:30-9, Friends; join at door, $10
 </li><li>12,000 books; 100% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; .50-$2</li><li>Use of scanning devices, cell phones, PDAs not permitted.</li></ul>
-"
-42.876077720100014,-83.43605699859327,"Brandon Twp Public Library","
+",false
+42.85472918196019,-83.4584414176117,"Brandon Twp Public Library","
 Bookstore<br><ul><li>Mon-Thu 9-8, Fri 9-5, Sat 9-2
 </li><li>3,000+ books; 90% donated; updated weekly; .25-$1</li><li>Some books removed for online sale; No buyer restrictions</li></ul>
-"
-44.41791048012731,-83.32175287489694,"R. J. Parks Library","
+",false
+44.39852214127455,-83.32964336665476,"R. J. Parks Library","
 Ongoing<br>
-"
-42.847382270061274,-83.2669948658745,"Oxford Public Library","
+",false
+42.8017094804987,-83.26292581254994,"Oxford Public Library","
 Oct<br><ul><li>Thu 10-7, Fri 10-4, Sat 10-3
 </li><li>Preview: Wed 4-7pm, Friends; join at door
 </li><li>8,000 books; 75% donated; 50% hardcover; sorted; <b>no buyer restrictions</b>; .50-$1; Sat $5/bag</li><li>Some books are removed</li><li>Credit cards accepted</li></ul>
-"
-42.34022155770841,-85.5564605448796,"Parchment Community Library","
+",false
+42.30358225638902,-85.55195166640931,"Parchment Community Library","
 July 13; Nov 16<br><ul><li>Sat 9-1
 </li><li>Preview: Sat 8-9, $2 admission
 </li><li>Sorted; .50-$1</li></ul><br><hr>
 Ongoing<br><ul><li>Library hours
 </li></ul>
-"
-45.36443500945844,-84.9537862093753,"Petoskey Public Library","
+",false
+45.39216801973539,-84.96388397322852,"Petoskey Public Library","
 July 26 - 27<br><ul><li>Fri, Sat 10-4
 </li><li>2,000 books; 90% donated; 40% hardcover; sorted; paperbacks 5/$1; hardcovers $3; trade pb $2; children's .25-$3</li><li>Downtown Sidewalk Sale Days</li></ul>
-"
-43.82611082086591,-83.26806114324299,"Pigeon District Library","
+",false
+43.85162480143635,-83.24752965632948,"Pigeon District Library","
 Ongoing<br><ul><li>Library hours
 </li><li>Paperback books only</li></ul>
-"
-42.46894981233355,-83.96671539475086,"Pinckney Community Public Library","
+",false
+42.47654417496517,-83.93717881015503,"Pinckney Community Public Library","
 Aug 17; Sept 21; Oct 19; Nov 16<br><ul><li>Sat 10-2
 </li></ul>
-"
-42.4208570400463,-85.62277282165084,"Ransom Library","
+",false
+42.42928289398906,-85.64295158059453,"Ransom Library","
 Ongoing<br><ul><li>Library hours
 </li><li>Most $1-$2% hardcover; hardcovers $1</li></ul>
-"
-42.357118466892466,-83.45175976215056,"Plymouth District Library","
+",false
+42.35296964747209,-83.46464033297318,"Plymouth District Library","
+<img src='img/null.gif' height='1' width='680'><br>
 Ongoing<br><ul><li>Library hours
 </li><li>Paperbacks .50; hardcovers $1</li></ul>
-"
-42.35699800017684,-83.45103685212082,"<img src='./Book Sales in Michigan_files/null.gif' height='1' width='260'>","
-<img src='./Book Sales in Michigan_files/null.gif' height='1' width='680'><br>
+",false
+42.38099474257125,-83.48151999773421,"Plymouth-Canton Bookfest","
 Oct<br><ul>
 	<li><span style='font-size:22px'><strong>The Inaugural</strong>&nbsp;<strong><span style='color:#FF0000'>Plymouth-Canton Bookfest!</span></strong></span></li>
 	<li><span style='font-size:16px'><strong>Sunday, October 2, 2022</strong></span>
@@ -815,32 +836,32 @@ Oct<br><ul>
 	<li><span style='font-size:14px'><strong><a href='https://plymbook.com/event-details/' target='_blank'>CLICK HERE</a>&nbsp;for all the event details</strong></span></li>
 	<li><span style='color:#FF0000'><strong>Come enjoy this&nbsp;glorious day of BOOKS, vinyl records, comics, creative arts, and more! What's not to love?!</strong></span></li>
 </ul><li>Watch here for details on the next Plymouth-Canton Bookfest
-</li>"
-42.63094119791025,-83.30975670611257,"Gym Door on Exchange Street at side of church","
+</li>",false
+42.64294932497647,-83.31437122616597,"Gym Door on Exchange Street at side of church","
 Ongoing<br><ul><li>Every Sat 10-2
 </li><li>6,000+ books; 100% donated; 50% hardcover; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .25-$2</li><li>Credit cards accepted</li></ul>
-"
-42.98372050353865,-82.4231974686514,"St. Clair County Library","
+",false
+42.9597072517317,-82.4251231614674,"St. Clair County Library","
 Ongoing<br><ul><li>Library hours
 </li><li>500 books; 100% donated; 50% hardcover; sorted; paperbacks .50; hardcovers $1</li></ul>
-"
-42.203760118107205,-85.57729647870838,"Portage District Library","
+",false
+42.181798017762134,-85.60228509406755,"Portage District Library","
 Ongoing<br><ul><li>Library hours
 </li><li>$1 each</li></ul>
-"
-41.92026967520327,-84.89170896514311,"Quincy Public Library","
+",false
+41.937592288716004,-84.87684075301019,"Quincy Public Library","
 Ongoing<br><ul><li>800 books; 50% donated; 45% hardcover; .10-.25</li></ul>
-"
-42.38354544190268,-83.2786634329925,"Redford Township Public Library","
+",false
+42.36852864750498,-83.30735044029555,"Redford Township Public Library","
 Ongoing<br><ul><li>Every Sat noon-4 (closed when holiday closes library)
 </li><li>10,000 books; 100% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .10-$2</li><li>Credit cards accepted</li></ul>
-"
-42.80058814771685,-82.7671530847938,"Lois Wagner Memorial Library","
+",false
+42.81507702866002,-82.75366114097253,"Lois Wagner Memorial Library","
 Oct<br><ul><li>Thu, Fri 9-5, Sat 10-2
 </li><li>Preview: Wed 5-7pm, $5 fee all welcome
 </li><li>6,000 books; 95% donated; 75% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; also A/V, puzzles, games; .25-$5</li></ul>
-"
-42.669864286198646,-83.15039663420596,"Rochester Hills Public Library","
+",false
+42.68491088354512,-83.11495980231594,"Rochester Hills Public Library","
 July 18 - 20<br><ul><li>Thu 10-8, Fri, Sat 10-4:30, Mon 10-1 (closed Sun)
 </li><li>Preview: Wed 5:30-8pm, Friends; join at door
 </li><li>35,000+ books; 70% donated; 60% hardcover; sorted; .50 &amp; up; Mon $5/bag</li><li>Some books removed to sell online and ongoing sale</li><li>All major credit cards accepted</li></ul><br><hr>
@@ -848,8 +869,8 @@ Oct 17 - 20<br><ul><li>Thu 10-8, Fri, Sat 10-5, Sun 1:30-4:30
 </li><li>Preview: Wed 5:30-8pm, Friends; join at door
 </li><li>35,000+ books; 70% donated; 60% hardcover; sorted; <b>no buyer restrictions</b>; .50 &amp; up</li><li>Some books removed to sell online and in ongoing sale</li><li>All major credit cards accepted</li></ul><br><hr>
 Ongoing<br><ul><li>Library lobby</li></ul>
-"
-42.82252575607225,-83.02951463614316,"at Community Center","
+",false
+42.79438339686256,-83.03635927686702,"at Community Center","
 Aug 29 - Sept 1<br><ul>
 	<li><span style='font-size:14px'><span style='color:#FF0000'><strong>Romeo Area AAUW</strong> presents the <strong>50</strong><sup>th</sup>&nbsp;<strong>Annual Book Sale!</strong></span></span></li>
 	<li><span style='font-size:16px'><strong><span style='color:rgb(255, 0, 0)'>Featuring 30,000 BOOKS!!!</span></strong></span>
@@ -888,26 +909,26 @@ Aug 29 - Sept 1<br><ul>
 	<li>Books have not been picked over and there are no buyer restrictions.&nbsp;</li>
 	<li>Charities, organizations, and other parties interested in books: Contact Debbie Byks at&nbsp;810-796-2153</li>
 </ul>
-"
-42.81424131204336,-82.99242912339822,"Romeo District Library","
+",true
+42.78548294132162,-83.0037677982458,"Romeo District Library","
+<img src='img/null.gif' height='1' width='680'><br>
 Ongoing<br><ul><li>Library hours
 </li><li>4,000 books; 80% donated; 60% hardcover; sorted; .25-$3 (half off on Sat)</li><li>See also Graubner Branch</li></ul>
-"
-42.515636832534106,-82.95772038724336,"Roseville Public Library","
-<img src='./Book Sales in Michigan_files/null.gif' height='1' width='680'><br>
+",false
+42.48309804655837,-82.93460391068878,"Roseville Public Library","
 Oct<br><ul><li>Thu noon-7:30, Fri 10-4, Sat 10-3
 </li><li>5,000 books; 75% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; Sat $5/bag</li></ul>
-"
-42.48895620324981,-83.1671234362301,"Royal Oak Public Library","
+",false
+42.51369383875074,-83.14441904022813,"Royal Oak Public Library","
 Bookstore<br><ul><li>Mon, Wed, Thu 10-8, Sat 10-3
 </li><li>2,000 books</li><li>Barcode scanners not allowed</li></ul>
-"
-43.399348779842754,-83.9689506621365,"Friends of Butman-Fish Library","
+",false
+43.43786381252878,-83.97128706093913,"Friends of Butman-Fish Library","
 Nov<br><br>Watch this spot for details on the next big sale!<br><hr>
 Ongoing<br><ul><li>Library hours
 </li><li>100% donated; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; paperbacks $1; hardcovers $2; puzzles $1</li><li>Large quantity of recent books. Excellent condition. Daily inventory additions.</li></ul>
-"
-43.41911239295493,-83.9483495213858,"Zauel Memorial Library","
+",false
+43.42683689862407,-83.95862455153588,"Zauel Memorial Library","
 Oct 16 - 19<br><ul>
 	<li><span style='font-size:16px'><span style='color:#B22222'><strong>FALL BOOK SALE by Friends of&nbsp; Zauel Library</strong></span></span></li>
 	<li><span style='font-size:18px'><span style='color:#B22222'><strong>25,000 BOOKS and MEDIA!!</strong></span></span></li>
@@ -940,145 +961,145 @@ Oct 16 - 19<br><ul>
 </ul><br><hr>
 Ongoing<br><ul><li>Normal library hours
 </li><li>'Several hundred recent copyright' books; 100% donated; paperbacks $1; hardcovers $2</li><li>Excellent condition. Inventory additions daily</li></ul>
-"
-43.40926603478518,-83.95219975042933,"Thomas Township Library","
+",true
+43.43437310533602,-83.92648863236218,"Thomas Township Library","
 Sept<br><ul><li>Sat 10-4, Mon, Tue 10-7
 </li><li>4,500 books; 65% donated; 70% hardcover; sorted; .25-$2</li><li>Cash or check only</li></ul>
-"
-42.084973750444696,-86.50066061172865,"Maud Preston Palenske Memorial Library","
+",false
+42.11814469742816,-86.46108856205053,"Maud Preston Palenske Memorial Library","
 Ongoing<br>
-"
-42.144829607757174,-83.78735079810629,"Saline District Library","
+",false
+42.17382198551698,-83.76635652783204,"Saline District Library","
 Bookstore<br><ul><li>Every Satuday that library is open,10-4; weekday hours vary.
 </li><li>6,000 books; 99% donated; 50% hardcover; sorted; .25-$1</li><li>New donations added weekly<br>Not picked over; no restrictions</li></ul>
-"
-42.39297676624117,-86.2729910530052,"<img src='./Book Sales in Michigan_files/doedit.gif' border='0' align='middle'>","
+",false
+42.42430868922749,-86.2897071793336,"No Name Found","
 Aug 9 - 10<br><ul><li>Fri 9-4. Sat 9-2
 </li><li>Preview: Fri 8-9, $ 15 fee
 </li><li>Sat $5/bag</li></ul>
-"
-42.432113516839706,-83.68064011996668,"Lyon Township Public Library","
+",false
+42.43009780696048,-83.64166185113352,"Lyon Township Public Library","
 Nov<br><ul><li>Thu 10-8:30, Fri, Sat, 10-4:30, Sun noon-3:30
 </li><li>6,000 books; 75% donated; 40% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; $1-$2</li></ul>
-"
-42.48673152699134,-83.24076391724913,"Southfield Public Library","
+",false
+42.4847917692081,-83.22325384096446,"Southfield Public Library","
+<img src='img/null.gif' height='1' width='680'><br>
 July 10 - 13; Aug 14 - 17; Sept 4 - 7; Oct 2 - 5; Nov 6 - 9; Dec 4 - 7<br><ul><li>Wed 1-7:30, Thu 11-4:30, Fri 1-4, Sat 1-4
 </li><li>4,000+ books; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; most $1-$4</li></ul>
-"
-42.18521379671919,-84.54825235538793,"<img src='./Book Sales in Michigan_files/null.gif' height='1' width='260'>","
-<img src='./Book Sales in Michigan_files/null.gif' height='1' width='680'><br>
+",false
+42.190984465313775,-84.54193798319373,"No Name Found","
 Aug 1 - 3<br><ul><li>Thu 9-7, Fri 9-4, Sat 9-11
 </li><li>2,000 books; 100% donated; 60% hardcover; sorted; <b>no buyer restrictions</b>; Fri: Most items buy 1 get 1 free; Sat all items inside free</li><li>Church members who sort can buy books early.</li></ul>
-"
-42.80850081938921,-82.49192909075296,"St. Clair Public Library","
+",false
+42.81231047015935,-82.47118419722014,"St. Clair Public Library","
 Ongoing<br><ul><li>Library hours
 </li><li>700 books; 100% donated; 60% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; $3/bag</li><li>Inventory refreshed on Tue</li></ul>
-"
-42.48063139589223,-82.87164283194875,"<img src='./Book Sales in Michigan_files/sendemail.gif' border='0' align='middle'>","
+",false
+42.48838816103692,-82.89818857592205,"No Name Found","
 Bookstore<br><ul><li>Library hours
 </li><li>Paperbacks .25; children's .25-$1; 'Last Chance' hard &amp; soft covers $.50; current mags .25; other categories $1-$5</li><li>Located in Reading Lounge</li></ul>
-"
-43.273222860192526,-85.08756998531989,"White Pine Library","
+",false
+43.30800072729269,-85.06598948785012,"White Pine Library","
 Ongoing<br><ul><li>Library hours
 </li></ul>
-"
-42.56220747611511,-83.00731297236078,"Sterling Heights Public Library","
+",false
+42.58257906322932,-83.0207252140015,"Sterling Heights Public Library","
 Bookstore<br><ul><li>Mon, Tue, Thu 10-7, Wed 10-4, Sat 1-4
 </li><li>100% donated; 60% hardcover; sorted; .50-$3; clearance books $3/bag</li></ul>
-"
-42.033215165714466,-86.50102325229193,"Lincoln Township Public Library","
+",false
+42.038848023647176,-86.52676533529069,"Lincoln Township Public Library","
 Bookstore<br>
-"
-41.803657847579416,-85.39702584236373,"Sturgis Public Library","
+",false
+41.78102517079249,-85.4232665944168,"Sturgis Public Library","
 Ongoing<br>
-"
-42.24563542438735,-83.2573247796422,"Taylor Community Library","
+",false
+42.239479052511626,-83.2734355476152,"Taylor Community Library","
 Ongoing<br><ul><li>Library hours
 </li><li>Wall is stocked. No monthly sales for the time being.</li></ul>
-"
-41.98817329832608,-83.93450697027203,"Tecumseh District Library","
-July 6; Aug 3; Sept 7; Nov 2; Dec 7<br><ul><li>Sat 10-2
+",false
+42.02617470967469,-83.93147247274705,"Tecumseh District Library","
+Aug 3; Sept 7; Nov 2; Dec 7<br><ul><li>Sat 10-2
 </li><li>4,000 books; 100% donated; 40% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; paperbacks .50; hardcovers most $1; children's .25; Most hardcovers $1</li></ul><br><hr>
 Oct 12<br><ul><li>Sat 10-4
 </li><li>4,000 books; 100% donated; 40% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; paperbacks .50; children's .25; Most hardcovers $1</li><li>AppleUmpkin Festival</li></ul>
-"
-41.793209692445195,-83.54905987221635,"Bedford Branch Library","
+",false
+41.780940001067066,-83.55564594723288,"Bedford Branch Library","
+<img src='img/null.gif' height='1' width='680'><br>
 Ongoing<br><ul><li>Library hours
 </li><li>Thousands of books; 99% donated; 75% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .25-$2</li><li>CASH ONLY</li></ul>
-"
-44.7404480991727,-85.62531927537584,"Traverse Area District Library","
-<img src='./Book Sales in Michigan_files/null.gif' height='1' width='680'><br>
+",false
+44.76698728595886,-85.61124843497147,"Traverse Area District Library","
 Sept<br><ul><li>Fri, Sat 9-6, Sun noon-5
 </li><li><b>no buyer restrictions</b>; Adult $2, Children's $1, DVDs $2 or 5/$5; CDs $1 or 10/$5</li></ul><br><hr>
 Ongoing<br><ul><li>Library hours
 </li><li>.50-$1</li></ul>
-"
-42.123204291741175,-83.18238579391213,"Trenton Veterans Memorial Library","
+",false
+42.15578161288334,-83.17474945666709,"Trenton Veterans Memorial Library","
 Ongoing<br><ul><li>Library hours
 </li><li>Paperbacks .50; trade pb $1; children's .25</li><li>Items refreshed at least twice a week</li></ul>
-"
-42.627394197419015,-83.13436540203965,"Troy Public Library","
+",false
+42.60625893334599,-83.15739748955846,"Troy Public Library","
 Bookstore<br><ul><li>Sat 10-1, Sun 1-4 (closed when library is closed)
 </li><li>50,000 books; 80% donated; sorted; Hardcover, Paperback, Collectors Corner (1st editions, etc.), Magazines, Sheet music, DVD/VHS, CDs/Records, Talking books, Software, Craft &amp; Sewing Patterns, Games &amp; Puzzles.; Most .50-$1</li><li>Restocked after each sale day</li></ul>
-"
-42.49181251261912,-82.98313080036608,"Friends of Warren Public Library Book Store","
+",false
+42.487375265019054,-83.0154373454108,"Friends of Warren Public Library Book Store","
 Bookstore<br><ul><li>Every Fri 9-noon, and the 3rd Sat of every month, 9-noon. Closed month of December and holidays.
 </li><li>12,000 books; 60% donated; 60% hardcover; sorted; .10-$2</li><li>Not picked over; no restrictions</li></ul>
-"
-38.54173063690275,-91.00138641531187,"Romeo District Library","
+",false
+38.574588908842074,-91.02930374550925,"Romeo District Library","
 Ongoing<br><ul><li>Library hours
 </li><li>4,000 books; 80% donated; 60% hardcover; sorted; .25-$3 (half off on Sat)</li><li>See also Kezar branch</li></ul>
-"
-42.69383893698239,-83.37901103272695,"Waterford Twp Public Library","
+",false
+42.69917332445719,-83.38852007453771,"Waterford Twp Public Library","
 Aug 3 - 4; Oct 5 - 6; Nov 30 - Dec 1<br><ul><li>Sat 10-4:30, Sun 1-4
 </li><li>5,000 books; 100% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; paperbacks .75; hardcovers $1.25; media $3; Sun: $5/bag</li></ul>
-"
-42.67502636665185,-85.62281710177173,"Henika District Library","
+",false
+42.661056130648696,-85.65091052901684,"Henika District Library","
 Ongoing<br><ul><li>Library hours
 </li></ul>
-"
-42.26827668064445,-83.40595115236351,"Wayne Public Library","
+",false
+42.27065415372233,-83.37822304364255,"Wayne Public Library","
 Ongoing<br><ul><li>Tue-Thu 10-8, Fri, Sat noon-5
 </li><li>Hundreds of books; 80% donated; 50% hardcover; sorted; <b>no buyer restrictions</b>; plus CDs, DVDs; paperbacks .50; hardcovers $1; children's .25</li></ul>
-"
-42.57211479657011,-83.3611927114176,"West Bloomfield Main Library","
+",false
+42.58308192281026,-83.38582674575404,"West Bloomfield Main Library","
 Oct 26 - 27<br><ul><li>Sat 9-5, Sun noon-3
 </li><li>Preview: Fri 7-9pm, Friends; join at door
 </li><li>10,000+ books; 75% donated; 50% hardcover; sorted; <b>not 'picked over'</b>; <b>no buyer restrictions</b>; .50-$5;  Sun $5/bag</li><li>Credit cards accepted</li></ul><br><hr>
 Bookstore<br><ul><li>Mon-Fri 11-5
 </li></ul>
-"
-44.26764862658265,-84.22656455176987,"West Branch Public Library","
+",false
+44.29677328813126,-84.21440644324372,"West Branch Public Library","
+<img src='img/null.gif' height='1' width='680'><br>
 Bookstore<br><ul><li>Tue-Thu 10-4, Fri, Sat 10-1
 </li></ul>
-"
-42.329632773294115,-83.40869253935902,"Public Library of Westland","
-<img src='./Book Sales in Michigan_files/null.gif' height='1' width='680'><br>
+",false
+42.32802092108741,-83.41270672309149,"Public Library of Westland","
 Sept 6 - 8; Nov 15 - 17<br><ul><li>Fri, Sat 10-4, Sun noon-3
 </li><li>Preview: Thu 3-6pm, Friends; join at door
 </li><li>5,000 books; 80% donated; <b>no buyer restrictions</b>; semi sorted; Sun: bag sale</li><li>Some items removed to sell online</li><li>Credit cards accepted minimum $5 purchase</li></ul><br><hr>
 Bookstore<br><ul><li>Library hours
 </li></ul>
-"
-42.335783846833095,-84.32888407838402,"White Lake Township Library","
+",false
+42.35499752300169,-84.35711217140586,"White Lake Township Library","
 Sept 12 - 14; Dec 5 - 7<br><ul><li>Thu 10-7, Fri, Sat 10-4
 </li><li>Preview: Wed 5-7, Friends, join at door
 </li><li>10,000 books; 75% donated; 50% hardcover; sorted; <b>no buyer restrictions</b>; .50-$1</li><li>Credit cards accepted</li><li>A small number of books have been removed prior to sale</li></ul><br><hr>
 Ongoing<br><ul><li>Library hours
 </li></ul>
-"
-43.41831014750649,-86.32453966105265,"White Lake Community Library","
+",false
+43.39708325929496,-86.36263686097752,"White Lake Community Library","
 Aug 10; Nov 9<br><ul><li>Sat 10-2
 </li><li>3,500 books; 65% donated; 40% hardcover; sorted; $1-$2 or $5/bag</li><li>Some books removed for ongoing sale</li><li>Credit cards accepted</li></ul>
-"
-42.53228547340995,-83.51167215619954,"Wixom Public Library","
+",false
+42.50439900016915,-83.55124823104721,"Wixom Public Library","
 Oct<br><br>Watch this spot for the next great sale!
-"
-42.19168869769385,-83.1502638518057,"Bacon Library","
+",false
+42.18758630691534,-83.1272536050341,"Bacon Library","
 Ongoing<br><ul><li>Mon-Thu 10-9, Fri, Sat 10-5
 </li><li>Paperbacks .25; hardcovers $1; children's .25-.50</li></ul>
-"
-42.24077875630998,-83.61978608913644,"Ypsilanti District Library","
+",false
+42.23208038784932,-83.59087888729388,"Ypsilanti District Library","
 Bookstore<br><ul><li>Mon 4-8, Tue 6-8, Wed, Thu 10-2, Fri 10-noon, Sat 11-5
 </li></ul>
-"
+",false

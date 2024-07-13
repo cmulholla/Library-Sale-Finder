@@ -67,12 +67,23 @@ function parseSalesData(html) {
     const tables = findTablesAfterBrowse(html);
 
     const data = [];
+    var yellow = false;
     for (const table of tables) {
         // find all rows in the table
         const rows = Array.from(table.getElementsByTagName('tr'));
+
+        // loop through each row
         for (const row of rows) {
             const cells = Array.from(row.getElementsByTagName('td'));
             if (cells.length === 2) {
+
+                yellow = false;
+                
+                // if the tr tag is yellow, then set the yellow flag to true
+                if (row.getAttribute('bgcolor') === '#ffff99') {
+                    yellow = true;
+                }
+
                 // get the city name, library name, and everything before the <br> tag in the second cell
                 const city = cells[0].querySelector('b').textContent;
                 //console.log("City:", city);
@@ -108,7 +119,7 @@ function parseSalesData(html) {
                 let saleDetails = cells[1].innerHTML;
                 //console.log("saleDetails:", saleDetails);
 
-                data.push([city, library, saleDetails]);
+                data.push([city, library, saleDetails, yellow]);
             }
         }
     }
@@ -121,9 +132,9 @@ async function convertHTMLDataToJSON(HTMLData) {
     const data = await parseSalesData(HTMLData);
 
     // Convert the data array to a CSV string
-    let csv = 'City,Library,SaleDetails\n';
+    let csv = 'City,Library,SaleDetails,MajorSale\n';
     for (const row of data) {
-        csv += row.map(value => `"${value.replaceAll("\"", "\'")}"`).join(',') + '\n';
+        csv += row.map(value => `"${value.toString().replaceAll("\"", "\'")}"`).join(',') + '\n';
     }
 
     return d3.csvParse(csv);
